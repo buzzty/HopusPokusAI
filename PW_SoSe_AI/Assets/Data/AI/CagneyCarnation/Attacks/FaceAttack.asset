@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f2a9acc0854cffa38a20bce598a885, type: 3}
+  m_Name: FaceAttack
+  m_EditorClassIdentifier: 
+  _id: {fileID: 11400000, guid: 242aa3d140a1efa4a9ea8fbad93b8b42, type: 2}
+  _attackCooldown: 3
+  _limitUsageByHP: 1
+  _hpMinMax:
+    MinValue: 0.5004095
+    MaxValue: 0.8484848
+  _chance: 1
+  _faceAttackLoop: {fileID: 8300000, guid: d1888449aa686534e8afbc7d14db96cd, type: 3}

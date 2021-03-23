@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505403503819480c987d7af3316b1e08, type: 3}
+  m_Name: Gatling
+  m_EditorClassIdentifier: 
+  _id: {fileID: 11400000, guid: 3bf299c2254b7124a89d044cef702933, type: 2}
+  _attackCooldown: 4
+  _limitUsageByHP: 1
+  _hpMinMax:
+    MinValue: 0.8517608
+    MaxValue: 1
+  _chance: 1
+  _normalProjectile: {fileID: 5677574985061442654, guid: 88ef3249fa5129840a7ed8540ce36790,
+    type: 3}
+  _parryProjectile: {fileID: 5156697759169227931, guid: 41618013e5e5ce74c8254100b8751253,
+    type: 3}
+  _parryProjectileProbability: 0.3
+  _minDistanceBetweenSeeds: 6
+  _startSpawnDelay:
+    MinValue: 0.5328989
+    MaxValue: 0.6133184
+  _delayBetweenSpawns:
+    MinValue: 1.2236173
+    MaxValue: 1.4566112
+  _minAmount: 4
+  _maxAmount: 7
+  _gatlingAudioLoop: {fileID: 8300000, guid: 0b7434920a81c5f478e2ccf76924da8b, type: 3}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4636b65f13e8442ab84a8f148df2b048, type: 3}
+  m_Name: MagicHands
+  m_EditorClassIdentifier: 
+  _id: {fileID: 11400000, guid: 9481154480f0dcb41a56649314a0c282, type: 2}
+  _attackCooldown: 3
+  _limitUsageByHP: 1
+  _hpMinMax:
+    MinValue: 0.5004095
+    MaxValue: 0.8484848
+  _chance: 1
+  _projectilePrefabs:
+  - _projectilePrefab: {fileID: 6405653581833868607, guid: 18a6126c5795baa41bce5a99587621df,
+      type: 3}
+    _weight: 1
+    _spawnType: 0
+  - _projectilePrefab: {fileID: 5120276588626410531, guid: 96ab5dd2f3c61c94db172b10adca961d,
+      type: 3}
+    _weight: 1
+    _spawnType: 1
+  _spawnFX: {fileID: 1886019391514173164, guid: 600749d2eafb2fe40aa0392a73216e23,
+    type: 3}
+  _acornSettings: {fileID: 11400000, guid: 825845644e094d94b8abd807db341615, type: 2}
