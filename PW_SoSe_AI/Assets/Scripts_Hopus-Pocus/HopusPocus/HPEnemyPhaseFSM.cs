@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace AISystem.HopusPocus
 {
-    public class EnemyPhaseFSM : CachedMonoBehaviour
+    public class HPEnemyPhaseFSM : CachedMonoBehaviour
     {
         public static event Action<int> OnPhaseSwitched;
 

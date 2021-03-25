@@ -12,14 +12,14 @@ namespace AISystem.HopusPocus.Phases
 
         private EnemyActionFSM<HopusPocusState> _fsm;
 
-        public override void InitPhase(EnemyPhaseFSM enemyPhaseFsm)
+        public override void InitPhase(HPEnemyPhaseFSM enemyPhaseFsm)
         {
             base.InitPhase(enemyPhaseFsm);
 
             //_fsm = enemyPhaseFsm.GetComponentsInChildren<EnemyActionFSM<HopusPocusState>>().FirstOrDefault(fsm => fsm.Id.Equals(_phaseFSM));
         }
 
-        public override bool OnStateUpdate(EnemyPhaseFSM phaseFSM, Enemy enemy)
+        public override bool OnStateUpdate(HPEnemyPhaseFSM phaseFSM, Enemy enemy)
         {
             if (_fsm != null)
             {

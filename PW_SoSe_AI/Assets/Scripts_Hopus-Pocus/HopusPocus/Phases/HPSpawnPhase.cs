@@ -7,7 +7,7 @@ namespace AISystem.HopusPocus.Phases
     [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusCopus/States/SpawnPhase", fileName = "SpawnPhase", order = 0)]
     public class HPSpawnPhase : HPAnimatorDrivenPhase
     {
-        public override void OnStateEnter(EnemyPhaseFSM phaseFsm, Enemy enemy)
+        public override void OnStateEnter(HPEnemyPhaseFSM phaseFsm, Enemy enemy)
         {
             base.OnStateEnter(phaseFsm, enemy);
             enemy.Animator.SetTrigger("SetSpawn");

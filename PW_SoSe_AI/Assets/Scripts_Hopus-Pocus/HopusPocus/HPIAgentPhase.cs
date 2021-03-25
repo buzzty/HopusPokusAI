@@ -4,8 +4,8 @@
     {
         StateIdentifier Id { get; }
 
-        void OnStateEnter(EnemyPhaseFSM phaseFSM, Enemy enemy);
-        void OnStateExit(EnemyPhaseFSM phaseFSM, Enemy enemy);
-        bool OnStateUpdate(EnemyPhaseFSM phaseFSM, Enemy enemy);
+        void OnStateEnter(HPEnemyPhaseFSM phaseFSM, Enemy enemy);
+        void OnStateExit(HPEnemyPhaseFSM phaseFSM, Enemy enemy);
+        bool OnStateUpdate(HPEnemyPhaseFSM phaseFSM, Enemy enemy);
     }
 }

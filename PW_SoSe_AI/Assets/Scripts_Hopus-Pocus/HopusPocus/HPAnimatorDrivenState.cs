@@ -9,14 +9,14 @@
             _isAnimationDone = true;
         }
 
-        public override void OnStateEnter(EnemyPhaseFSM phaseFSM, Enemy enemy)
+        public override void OnStateEnter(HPEnemyPhaseFSM phaseFSM, Enemy enemy)
         {
             base.OnStateEnter(phaseFSM, enemy);
 
             _isAnimationDone = false;
         }
 
-        public override bool OnStateUpdate(EnemyPhaseFSM phaseFSM, Enemy enemy)
+        public override bool OnStateUpdate(HPEnemyPhaseFSM phaseFSM, Enemy enemy)
         {
             if (_isAnimationDone)
             {
