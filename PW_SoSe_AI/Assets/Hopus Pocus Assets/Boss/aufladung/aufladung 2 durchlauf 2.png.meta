@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: 889486cb6c685e84a8644f6937756dab
+guid: d98c503cfcc867c49aaa9abd3ece352b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5787807609236261449
-    second: aufladung durchlauf 3_0
+      213: 45653389270152181
+    second: aufladung 2 durchlauf 2_0
   - first:
-      213: 1625765137506112468
-    second: aufladung durchlauf 3_1
+      213: 2447694122117836522
+    second: aufladung 2 durchlauf 2_1
   - first:
-      213: -4316215408956624759
-    second: aufladung durchlauf 3_2
+      213: -8226828919431345571
+    second: aufladung 2 durchlauf 2_2
   - first:
-      213: 3511973993917330140
-    second: aufladung durchlauf 3_3
+      213: -7030678292708601138
+    second: aufladung 2 durchlauf 2_3
   - first:
-      213: -986882346467435367
-    second: aufladung durchlauf 3_4
+      213: 2047197608303861922
+    second: aufladung 2 durchlauf 2_4
   - first:
-      213: 1083641033696773077
-    second: aufladung durchlauf 3_5
+      213: -8920438662716354766
+    second: aufladung 2 durchlauf 2_5
   - first:
-      213: -4560123457324007918
-    second: aufladung durchlauf 3_6
+      213: 76249608730392002
+    second: aufladung 2 durchlauf 2_6
   - first:
-      213: 1744423663882931071
-    second: aufladung durchlauf 3_7
+      213: -3365750001084504733
+    second: aufladung 2 durchlauf 2_7
   - first:
-      213: -8112679071260984264
-    second: aufladung durchlauf 3_8
+      213: -1327662060019372846
+    second: aufladung 2 durchlauf 2_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -118,169 +118,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: aufladung durchlauf 3_0
+      name: aufladung 2 durchlauf 2_0
       rect:
         serializedVersion: 2
-        x: 163
-        y: 3343
-        width: 422
-        height: 678
-      alignment: 9
-      pivot: {x: 0.26850617, y: 0.048187524}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b57b2ff4a39dafa0800000000000000
-      internalID: -5787807609236261449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: aufladung durchlauf 3_1
-      rect:
-        serializedVersion: 2
-        x: 835
-        y: 3343
+        x: 97
+        y: 3333
         width: 423
         height: 678
       alignment: 9
-      pivot: {x: 0.26575428, y: 0.04921666}
+      pivot: {x: 0.2757739, y: 0.045960374}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d3144567c0ef8610800000000000000
-      internalID: 1625765137506112468
+      spriteID: 5f37d32048132a000800000000000000
+      internalID: 45653389270152181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: aufladung durchlauf 3_2
+      name: aufladung 2 durchlauf 2_1
       rect:
         serializedVersion: 2
-        x: 1505
-        y: 3341
-        width: 426
+        x: 749
+        y: 3333
+        width: 424
         height: 680
       alignment: 9
-      pivot: {x: 0.2690421, y: 0.049516387}
+      pivot: {x: 0.27237803, y: 0.048519358}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 980b21f24f8b914c0800000000000000
-      internalID: -4316215408956624759
+      spriteID: aee25abe5d4f7f120800000000000000
+      internalID: 2447694122117836522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: aufladung durchlauf 3_3
+      name: aufladung 2 durchlauf 2_2
       rect:
         serializedVersion: 2
-        x: 2179
-        y: 3343
+        x: 1401
+        y: 3331
+        width: 425
+        height: 679
+      alignment: 9
+      pivot: {x: 0.26899818, y: 0.05275559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a42657fae64dd80800000000000000
+      internalID: -8226828919431345571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 2_3
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3333
         width: 424
         height: 678
       alignment: 9
-      pivot: {x: 0.2646611, y: 0.051274933}
+      pivot: {x: 0.26845336, y: 0.049641926}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd23adf7db90db030800000000000000
-      internalID: 3511973993917330140
+      spriteID: ec2dd09c7530e6e90800000000000000
+      internalID: -7030678292708601138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: aufladung durchlauf 3_4
+      name: aufladung 2 durchlauf 2_4
       rect:
         serializedVersion: 2
-        x: 163
-        y: 2373
-        width: 418
-        height: 680
+        x: 2709
+        y: 3339
+        width: 416
+        height: 678
       alignment: 9
-      pivot: {x: 0.24625868, y: 0.059777834}
+      pivot: {x: 0.25400016, y: 0.054550305}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99c54bf0cb3ed42f0800000000000000
-      internalID: -986882346467435367
+      spriteID: 2a02bf3d06b196c10800000000000000
+      internalID: 2047197608303861922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: aufladung durchlauf 3_5
+      name: aufladung 2 durchlauf 2_5
       rect:
         serializedVersion: 2
-        x: 815
-        y: 2369
+        x: 3355
+        y: 3333
         width: 422
         height: 674
       alignment: 9
-      pivot: {x: 0.25858513, y: 0.047576632}
+      pivot: {x: 0.25946942, y: 0.049437754}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d3888d57cdd90f00800000000000000
-      internalID: 1083641033696773077
+      spriteID: 23f812c7c4c343480800000000000000
+      internalID: -8920438662716354766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: aufladung durchlauf 3_6
+      name: aufladung 2 durchlauf 2_6
       rect:
         serializedVersion: 2
-        x: 1467
-        y: 2377
-        width: 423
-        height: 674
+        x: 257
+        y: 2375
+        width: 420
+        height: 673
       alignment: 9
-      pivot: {x: 0.26575428, y: 0.047576632}
+      pivot: {x: 0.27021033, y: 0.048768632}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21eb64a40ef27b0c0800000000000000
-      internalID: -4560123457324007918
+      spriteID: 2c533aa7d94ee0100800000000000000
+      internalID: 76249608730392002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: aufladung durchlauf 3_7
+      name: aufladung 2 durchlauf 2_7
       rect:
         serializedVersion: 2
-        x: 2123
-        y: 2367
+        x: 979
+        y: 2365
         width: 426
         height: 678
       alignment: 9
-      pivot: {x: 0.26412806, y: 0.052304067}
+      pivot: {x: 0.26563445, y: 0.049641926}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7b07877410753810800000000000000
-      internalID: 1744423663882931071
+      spriteID: 365669ed4347a41d0800000000000000
+      internalID: -3365750001084504733
       vertices: []
       indices: 
       edges: []

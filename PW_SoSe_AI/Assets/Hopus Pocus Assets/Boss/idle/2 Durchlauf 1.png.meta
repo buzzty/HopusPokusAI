@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 2abadd94a3177d3449b0dc69ea3e9f0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 635375578845703041
+    second: 2 Durchlauf 1_0
+  - first:
+      213: 2810583907036790566
+    second: 2 Durchlauf 1_1
+  - first:
+      213: 6745490970342022225
+    second: 2 Durchlauf 1_2
+  - first:
+      213: -8105760670855310582
+    second: 2 Durchlauf 1_3
+  - first:
+      213: -8527612502228634264
+    second: 2 Durchlauf 1_4
+  - first:
+      213: -7955515782943039132
+    second: 2 Durchlauf 1_5
+  - first:
+      213: -5846231539578920615
+    second: 2 Durchlauf 1_7
+  - first:
+      213: -6972367760286882958
+    second: 2 Durchlauf 1_8
+  - first:
+      213: 8622269684140776749
+    second: 2 Durchlauf 1_9
+  - first:
+      213: 6460870604247388616
+    second: 2 Durchlauf 1_10
+  - first:
+      213: -6202901151108821684
+    second: 2 Durchlauf 1_11
+  - first:
+      213: 991906683433247173
+    second: 2 Durchlauf 1_12
+  - first:
+      213: -630986369857271809
+    second: 2 Durchlauf 1_14
+  - first:
+      213: 5946061604990656240
+    second: 2 Durchlauf 1_15
+  - first:
+      213: 294857447026379296
+    second: 2 Durchlauf 1_16
+  - first:
+      213: -7585005958916466462
+    second: 2 Durchlauf 1_17
+  - first:
+      213: 4606603069599614350
+    second: 2 Durchlauf 1_18
+  - first:
+      213: 6803791106884175238
+    second: 2 Durchlauf 1_19
+  - first:
+      213: 3104091385155355069
+    second: 2 Durchlauf 1_20
+  - first:
+      213: -2870173762356666305
+    second: 2 Durchlauf 1_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3275
+        width: 486
+        height: 714
+      alignment: 9
+      pivot: {x: 0.35566643, y: 0.053108107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6e0cf8be41d800800000000000000
+      internalID: 635375578845703041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_1
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3276
+        width: 474
+        height: 711
+      alignment: 9
+      pivot: {x: 0.32833785, y: 0.062069062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7b5e1c23310720800000000000000
+      internalID: 2810583907036790566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_2
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 3276
+        width: 488
+        height: 703
+      alignment: 9
+      pivot: {x: 0.34080932, y: 0.06519006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c57d26c4ccc9d50800000000000000
+      internalID: 6745490970342022225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_3
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 3275
+        width: 490
+        height: 708
+      alignment: 9
+      pivot: {x: 0.33143038, y: 0.061793786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035653bd9d828f80800000000000000
+      internalID: -8105760670855310582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_4
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 3275
+        width: 517
+        height: 700
+      alignment: 9
+      pivot: {x: 0.3616653, y: 0.06398054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8657b764c95d7a980800000000000000
+      internalID: -8527612502228634264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_5
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 3283
+        width: 572
+        height: 687
+      alignment: 9
+      pivot: {x: 0.42075333, y: 0.055729806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461aaa8ab84589190800000000000000
+      internalID: -7955515782943039132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2505
+        width: 564
+        height: 664
+      alignment: 9
+      pivot: {x: 0.43520367, y: 0.06523298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a6b0b3630edea0800000000000000
+      internalID: -5846231539578920615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2504
+        width: 540
+        height: 611
+      alignment: 9
+      pivot: {x: 0.429836, y: 0.06980144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e6b4967c2d3f90800000000000000
+      internalID: -6972367760286882958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_9
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 2504
+        width: 534
+        height: 603
+      alignment: 9
+      pivot: {x: 0.44087294, y: 0.061476067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d94d0589478a770800000000000000
+      internalID: 8622269684140776749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_10
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2505
+        width: 534
+        height: 598
+      alignment: 9
+      pivot: {x: 0.4379165, y: 0.05780907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1dde9559f99a950800000000000000
+      internalID: 6460870604247388616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_11
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 2504
+        width: 506
+        height: 603
+      alignment: 9
+      pivot: {x: 0.4204415, y: 0.06540296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0c47744edae9a0800000000000000
+      internalID: -6202901151108821684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_12
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 2507
+        width: 500
+        height: 610
+      alignment: 9
+      pivot: {x: 0.41001466, y: 0.058744237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ef5c8fd5f3cd00800000000000000
+      internalID: 991906683433247173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1765
+        width: 513
+        height: 616
+      alignment: 9
+      pivot: {x: 0.41537243, y: 0.057916418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74b8e5d394e37f0800000000000000
+      internalID: -630986369857271809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_15
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1756
+        width: 484
+        height: 631
+      alignment: 9
+      pivot: {x: 0.37279165, y: 0.06592377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9e02b687a48250800000000000000
+      internalID: 5946061604990656240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_16
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1753
+        width: 490
+        height: 639
+      alignment: 9
+      pivot: {x: 0.3501856, y: 0.06765236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ac26d294b871400800000000000000
+      internalID: 294857447026379296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_17
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1756
+        width: 465
+        height: 633
+      alignment: 9
+      pivot: {x: 0.33024824, y: 0.058566365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e810977445acb690800000000000000
+      internalID: -7585005958916466462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_18
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1745
+        width: 480
+        height: 654
+      alignment: 9
+      pivot: {x: 0.36844227, y: 0.052222762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8585b0c511fdef30800000000000000
+      internalID: 4606603069599614350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_19
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1728
+        width: 485
+        height: 691
+      alignment: 9
+      pivot: {x: 0.36003342, y: 0.0613489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850bc3b6fbeb6e50800000000000000
+      internalID: 6803791106884175238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 931
+        width: 474
+        height: 698
+      alignment: 9
+      pivot: {x: 0.3519022, y: 0.054614924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1098a2ba2f31b20800000000000000
+      internalID: 3104091385155355069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 Durchlauf 1_21
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 931
+        width: 482
+        height: 712
+      alignment: 9
+      pivot: {x: 0.35436025, y: 0.049287774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a5138b281b28d0800000000000000
+      internalID: -2870173762356666305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

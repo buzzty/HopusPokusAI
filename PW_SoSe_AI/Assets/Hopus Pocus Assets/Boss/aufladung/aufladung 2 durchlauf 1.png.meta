@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 3896121a5171f9c4c823cb9dc59164be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3534149905742631483
+    second: aufladung 2 durchlauf 1_0
+  - first:
+      213: -5227388836061987453
+    second: aufladung 2 durchlauf 1_1
+  - first:
+      213: -8832648362991309664
+    second: aufladung 2 durchlauf 1_2
+  - first:
+      213: 6835900756373259090
+    second: aufladung 2 durchlauf 1_3
+  - first:
+      213: -3452416815960265098
+    second: aufladung 2 durchlauf 1_4
+  - first:
+      213: 4681166299015377295
+    second: aufladung 2 durchlauf 1_5
+  - first:
+      213: -632146283431873526
+    second: aufladung 2 durchlauf 1_6
+  - first:
+      213: -1960736922964278671
+    second: aufladung 2 durchlauf 1_7
+  - first:
+      213: -7198087892912698689
+    second: aufladung 2 durchlauf 1_8
+  - first:
+      213: -7484999447792427104
+    second: aufladung 2 durchlauf 1_9
+  - first:
+      213: -3233417729571238585
+    second: aufladung 2 durchlauf 1_10
+  - first:
+      213: 780932913638673746
+    second: aufladung 2 durchlauf 1_11
+  - first:
+      213: 6261784630068595791
+    second: aufladung 2 durchlauf 1_12
+  - first:
+      213: -6540484662705655734
+    second: aufladung 2 durchlauf 1_13
+  - first:
+      213: -3051608956043618869
+    second: aufladung 2 durchlauf 1_14
+  - first:
+      213: -4515239187169824769
+    second: aufladung 2 durchlauf 1_15
+  - first:
+      213: -9108352349512371099
+    second: aufladung 2 durchlauf 1_16
+  - first:
+      213: -7943607874202723416
+    second: aufladung 2 durchlauf 1_17
+  - first:
+      213: -2268017222917005168
+    second: aufladung 2 durchlauf 1_18
+  - first:
+      213: 992924988644015638
+    second: aufladung 2 durchlauf 1_19
+  - first:
+      213: 3275608598499549436
+    second: aufladung 2 durchlauf 1_20
+  - first:
+      213: 6866159855210179081
+    second: aufladung 2 durchlauf 1_21
+  - first:
+      213: -7379431532443743380
+    second: aufladung 2 durchlauf 1_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3271
+        width: 428
+        height: 708
+      alignment: 9
+      pivot: {x: 0.26731044, y: 0.062114824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3215c25d92db0130800000000000000
+      internalID: 3534149905742631483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3271
+        width: 427
+        height: 708
+      alignment: 9
+      pivot: {x: 0.27345452, y: 0.05830409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dbeabac859477b0800000000000000
+      internalID: -5227388836061987453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_2
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 3271
+        width: 426
+        height: 708
+      alignment: 9
+      pivot: {x: 0.26900744, y: 0.05948169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca7f97c112c6580800000000000000
+      internalID: -8832648362991309664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_3
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 3271
+        width: 409
+        height: 644
+      alignment: 9
+      pivot: {x: 0.33280784, y: 0.05973067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253c37f058ffdde50800000000000000
+      internalID: 6835900756373259090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_4
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 3271
+        width: 405
+        height: 673
+      alignment: 9
+      pivot: {x: 0.35998383, y: 0.06755005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e6a14923d8610d0800000000000000
+      internalID: -3452416815960265098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_5
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 3273
+        width: 400
+        height: 657
+      alignment: 9
+      pivot: {x: 0.37282714, y: 0.054480147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81775372f7d6f040800000000000000
+      internalID: 4681166299015377295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2375
+        width: 410
+        height: 654
+      alignment: 9
+      pivot: {x: 0.37707555, y: 0.062361132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04b5f1fd4a2a37f0800000000000000
+      internalID: -632146283431873526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2373
+        width: 391
+        height: 646
+      alignment: 9
+      pivot: {x: 0.35226512, y: 0.06820291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c8b038201ac4e0800000000000000
+      internalID: -1960736922964278671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_8
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 2375
+        width: 380
+        height: 598
+      alignment: 9
+      pivot: {x: 0.341988, y: 0.0691314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba06e0d2314b1c90800000000000000
+      internalID: -7198087892912698689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_9
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2373
+        width: 408
+        height: 614
+      alignment: 9
+      pivot: {x: 0.2615506, y: 0.060553238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5652d8a0ff1890800000000000000
+      internalID: -7484999447792427104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_10
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2373
+        width: 422
+        height: 626
+      alignment: 9
+      pivot: {x: 0.28026766, y: 0.062906384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc472d4b79023d0800000000000000
+      internalID: -3233417729571238585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_11
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 2377
+        width: 422
+        height: 638
+      alignment: 9
+      pivot: {x: 0.2676597, y: 0.05683196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d08dee85e66da00800000000000000
+      internalID: 780932913638673746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1407
+        width: 428
+        height: 642
+      alignment: 9
+      pivot: {x: 0.2726235, y: 0.056074575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4d37d1f356e650800000000000000
+      internalID: 6261784630068595791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_13
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1407
+        width: 424
+        height: 674
+      alignment: 9
+      pivot: {x: 0.29343054, y: 0.04208564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f98c2ad78b35a0800000000000000
+      internalID: -6540484662705655734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_14
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1411
+        width: 422
+        height: 678
+      alignment: 9
+      pivot: {x: 0.2743322, y: 0.041711498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc59e9592d186a5d0800000000000000
+      internalID: -3051608956043618869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_15
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1411
+        width: 424
+        height: 679
+      alignment: 9
+      pivot: {x: 0.25736278, y: 0.049552456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa1dcc1e5a651c0800000000000000
+      internalID: -4515239187169824769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_16
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 1407
+        width: 426
+        height: 678
+      alignment: 9
+      pivot: {x: 0.26176518, y: 0.052989136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647836dbc1a89180800000000000000
+      internalID: -9108352349512371099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_17
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 1411
+        width: 424
+        height: 676
+      alignment: 9
+      pivot: {x: 0.26064143, y: 0.053723216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab9627b9b2a2c190800000000000000
+      internalID: -7943607874202723416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 349
+        width: 418
+        height: 680
+      alignment: 9
+      pivot: {x: 0.24893433, y: 0.061085958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090609b2a526680e0800000000000000
+      internalID: -2268017222917005168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_19
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 345
+        width: 421
+        height: 674
+      alignment: 9
+      pivot: {x: 0.25425926, y: 0.050552774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3cb4340497cd00800000000000000
+      internalID: 992924988644015638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_20
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 353
+        width: 424
+        height: 674
+      alignment: 9
+      pivot: {x: 0.26477513, y: 0.050552867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e7c85aac457d20800000000000000
+      internalID: 3275608598499549436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aufladung 2 durchlauf 1_21
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 343
+        width: 425
+        height: 678
+      alignment: 9
+      pivot: {x: 0.2705825, y: 0.04991105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aa9d48200894f50800000000000000
+      internalID: 6866159855210179081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
