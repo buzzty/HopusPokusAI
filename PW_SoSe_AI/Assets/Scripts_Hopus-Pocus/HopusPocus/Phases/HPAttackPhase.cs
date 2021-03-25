@@ -3,7 +3,7 @@ using UnityEditor;
 
 namespace AISystem.HopusPocus.Phases
 {
-    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusCopus/States/ActivePhase", fileName = "ActivePhase", order = 0)]
+    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/States/ActivePhase", fileName = "ActivePhase", order = 0)]
     public class HPAttackPhase : HPPhaseState
     {
         // [SerializeField] private List<AgentState> _agentStates = new List<AgentState>();

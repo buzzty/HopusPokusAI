@@ -3,7 +3,7 @@ using UnityEditor;
 
 namespace AISystem.HopusPocus.Phases
 {
-    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusCopus/States/SwitchPhase", fileName = "SwitchPhase", order = 0)]
+    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/States/SwitchPhase", fileName = "SwitchPhase", order = 0)]
     public class HPSwitchPhase : HPAnimatorDrivenPhase
     {
         public override void OnStateEnter(HPEnemyPhaseFSM phaseFSM, Enemy enemy)

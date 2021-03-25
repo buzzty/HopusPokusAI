@@ -1,18 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class SkullAttack : MonoBehaviour
+namespace AISystem.HopusPocus.States
 {
-    // Start is called before the first frame update
-    void Start()
+    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/Attacks/SkullAttack", fileName = "SkullAttack", order = 0)]
+    public class SkullAttack : HopusPocusState
     {
-        
+        // Start is called before the first frame update
+        void Start()
+        {
+
+        }
+
+        // Update is called once per frame
+        void Update()
+        {
+
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
