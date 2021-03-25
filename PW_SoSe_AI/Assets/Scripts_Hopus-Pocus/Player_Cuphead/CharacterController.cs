@@ -63,10 +63,10 @@ namespace CharacterSystem
 		private void Update()
 		{
 			// Player has no control is we are not in the match yet
-			if (!GameManager.Instance.IsMatch)
-			{
-				return;
-			}
+			//if (!GameManager.Instance.IsMatch)
+			//{
+			//	return;
+			//}
 			
 			// Poll Input
 			float horizontalAxisRawInput = InputManager.Instance.HorizontalInputRaw;
