@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 78ea30813e337a749ac6a1c495e35421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5138656193859960948
+    second: angriff durchlauf 1_0
+  - first:
+      213: 1636934762624693566
+    second: angriff durchlauf 1_1
+  - first:
+      213: -5591122333405376783
+    second: angriff durchlauf 1_3
+  - first:
+      213: -5601981826020388704
+    second: angriff durchlauf 1_5
+  - first:
+      213: -3808973902817322082
+    second: angriff durchlauf 1_8
+  - first:
+      213: 2738016732402279483
+    second: angriff durchlauf 1_15
+  - first:
+      213: 4810678850657774178
+    second: angriff durchlauf 1_16
+  - first:
+      213: 6928903289796216761
+    second: angriff durchlauf 1_17
+  - first:
+      213: -7231835785337268927
+    second: angriff durchlauf 1_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angriff durchlauf 1_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3343
+        width: 418
+        height: 697
+      alignment: 9
+      pivot: {x: 0.18955812, y: 0.05536948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fbd1eda63dfa8b0800000000000000
+      internalID: -5138656193859960948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_1
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 3341
+        width: 530
+        height: 686
+      alignment: 9
+      pivot: {x: 0.40020868, y: 0.056369793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35bbb66e7f87b610800000000000000
+      internalID: 1636934762624693566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_3
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 3341
+        width: 574
+        height: 678
+      alignment: 9
+      pivot: {x: 0.4410898, y: 0.05369257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8e9d5cd75862b0800000000000000
+      internalID: -5591122333405376783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_5
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 3341
+        width: 597
+        height: 674
+      alignment: 9
+      pivot: {x: 0.45933485, y: 0.04847133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05cd5b533c142b0800000000000000
+      internalID: -5601981826020388704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_8
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 3341
+        width: 583
+        height: 670
+      alignment: 9
+      pivot: {x: 0.4434867, y: 0.052246094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b17db8a6ec32bc0800000000000000
+      internalID: -3808973902817322082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2381
+        width: 507
+        height: 672
+      alignment: 9
+      pivot: {x: 0.34852427, y: 0.047629584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e9e326b36ff520800000000000000
+      internalID: 2738016732402279483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2381
+        width: 504
+        height: 672
+      alignment: 9
+      pivot: {x: 0.36508238, y: 0.052391417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae0f53de6f2c240800000000000000
+      internalID: 4810678850657774178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_17
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 2383
+        width: 475
+        height: 674
+      alignment: 9
+      pivot: {x: 0.33663523, y: 0.050158944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c657c4d8682060800000000000000
+      internalID: 6928903289796216761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angriff durchlauf 1_18
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2381
+        width: 446
+        height: 688
+      alignment: 9
+      pivot: {x: 0.32960024, y: 0.052336227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145930d4bab53ab90800000000000000
+      internalID: -7231835785337268927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

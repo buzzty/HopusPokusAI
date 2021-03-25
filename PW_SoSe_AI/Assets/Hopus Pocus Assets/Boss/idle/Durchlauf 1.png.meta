@@ -21,9 +21,6 @@ TextureImporter:
       213: -787603948058002844
     second: Durchlauf 1_5
   - first:
-      213: -7612343455663467044
-    second: Durchlauf 1_6
-  - first:
       213: 3917483343212464935
     second: Durchlauf 1_7
   - first:
@@ -42,9 +39,6 @@ TextureImporter:
       213: 229437191139791027
     second: Durchlauf 1_12
   - first:
-      213: -7030399334073915533
-    second: Durchlauf 1_13
-  - first:
       213: 1667868157919405202
     second: Durchlauf 1_14
   - first:
@@ -59,9 +53,6 @@ TextureImporter:
   - first:
       213: 7200797854721716074
     second: Durchlauf 1_18
-  - first:
-      213: 1176878878671000487
-    second: Durchlauf 1_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -154,12 +145,12 @@ TextureImporter:
       name: Durchlauf 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3435
-        width: 565
-        height: 661
+        x: 53
+        y: 3305
+        width: 486
+        height: 714
       alignment: 9
-      pivot: {x: 0.44524688, y: 0.07176996}
+      pivot: {x: 0.35383508, y: 0.05529033}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,12 +166,12 @@ TextureImporter:
       name: Durchlauf 1_1
       rect:
         serializedVersion: 2
-        x: 625
-        y: 3460
-        width: 540
-        height: 611
+        x: 721
+        y: 3305
+        width: 474
+        height: 712
       alignment: 9
-      pivot: {x: 0.43698335, y: 0.07723155}
+      pivot: {x: 0.32666194, y: 0.06125358}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,12 +187,12 @@ TextureImporter:
       name: Durchlauf 1_2
       rect:
         serializedVersion: 2
-        x: 1167
-        y: 3467
-        width: 536
-        height: 602
+        x: 1377
+        y: 3305
+        width: 488
+        height: 702
       alignment: 9
-      pivot: {x: 0.44805634, y: 0.07091109}
+      pivot: {x: 0.3386498, y: 0.06231846}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,12 +208,12 @@ TextureImporter:
       name: Durchlauf 1_3
       rect:
         serializedVersion: 2
-        x: 1715
-        y: 3459
-        width: 535
-        height: 598
+        x: 2059
+        y: 3304
+        width: 490
+        height: 709
       alignment: 9
-      pivot: {x: 0.4421768, y: 0.06804093}
+      pivot: {x: 0.33581492, y: 0.05577563}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,12 +229,12 @@ TextureImporter:
       name: Durchlauf 1_4
       rect:
         serializedVersion: 2
-        x: 2285
-        y: 3456
-        width: 508
-        height: 603
+        x: 2731
+        y: 3305
+        width: 516
+        height: 698
       alignment: 9
-      pivot: {x: 0.42387953, y: 0.06649249}
+      pivot: {x: 0.36067423, y: 0.058584306}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -259,12 +250,12 @@ TextureImporter:
       name: Durchlauf 1_5
       rect:
         serializedVersion: 2
-        x: 2811
-        y: 3462
-        width: 500
-        height: 613
+        x: 3427
+        y: 3312
+        width: 574
+        height: 687
       alignment: 9
-      pivot: {x: 0.4164746, y: 0.065994434}
+      pivot: {x: 0.42097458, y: 0.05400803}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,12 +271,12 @@ TextureImporter:
       name: Durchlauf 1_7
       rect:
         serializedVersion: 2
-        x: 3395
-        y: 3408
-        width: 521
-        height: 615
+        x: 55
+        y: 2257
+        width: 566
+        height: 664
       alignment: 9
-      pivot: {x: 0.41390365, y: 0.062375348}
+      pivot: {x: 0.4364912, y: 0.06304932}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -301,12 +292,12 @@ TextureImporter:
       name: Durchlauf 1_8
       rect:
         serializedVersion: 2
-        x: 25
-        y: 2745
-        width: 484
-        height: 632
+        x: 781
+        y: 2256
+        width: 540
+        height: 611
       alignment: 9
-      pivot: {x: 0.3881464, y: 0.0716997}
+      pivot: {x: 0.42709363, y: 0.07137177}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -319,15 +310,36 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: Durchlauf 1_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2256
+        width: 536
+        height: 603
+      alignment: 9
+      pivot: {x: 0.44251695, y: 0.061427075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2357d10ea7fed0800000000000000
+      internalID: -2380242555111265260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: Durchlauf 1_10
       rect:
         serializedVersion: 2
-        x: 576
-        y: 2739
-        width: 493
-        height: 640
+        x: 2183
+        y: 2257
+        width: 536
+        height: 598
       alignment: 9
-      pivot: {x: 0.36822608, y: 0.06980286}
+      pivot: {x: 0.4425167, y: 0.060622405}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -343,12 +355,12 @@ TextureImporter:
       name: Durchlauf 1_11
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 2747
-        width: 466
-        height: 632
+        x: 2880
+        y: 2256
+        width: 507
+        height: 603
       alignment: 9
-      pivot: {x: 0.3307178, y: 0.05701495}
+      pivot: {x: 0.417284, y: 0.06426567}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -364,12 +376,12 @@ TextureImporter:
       name: Durchlauf 1_12
       rect:
         serializedVersion: 2
-        x: 1675
-        y: 2728
-        width: 480
-        height: 653
+        x: 3549
+        y: 2259
+        width: 501
+        height: 610
       alignment: 9
-      pivot: {x: 0.36787975, y: 0.059417397}
+      pivot: {x: 0.4145849, y: 0.05944464}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -382,36 +394,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Durchlauf 1_13
-      rect:
-        serializedVersion: 2
-        x: 2189
-        y: 2711
-        width: 486
-        height: 714
-      alignment: 9
-      pivot: {x: 0.35678038, y: 0.06456289}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 377a167ed010f6e90800000000000000
-      internalID: -7030399334073915533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Durchlauf 1_14
       rect:
         serializedVersion: 2
-        x: 2729
-        y: 2700
-        width: 474
-        height: 711
+        x: 179
+        y: 1324
+        width: 512
+        height: 615
       alignment: 9
-      pivot: {x: 0.33683833, y: 0.060549967}
+      pivot: {x: 0.41474867, y: 0.056068186}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -427,12 +418,12 @@ TextureImporter:
       name: Durchlauf 1_15
       rect:
         serializedVersion: 2
-        x: 3307
-        y: 2669
-        width: 490
-        height: 702
+        x: 967
+        y: 1324
+        width: 484
+        height: 631
       alignment: 9
-      pivot: {x: 0.34532246, y: 0.06593292}
+      pivot: {x: 0.3779872, y: 0.06325564}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -448,12 +439,12 @@ TextureImporter:
       name: Durchlauf 1_16
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1957
-        width: 491
-        height: 730
+        x: 1727
+        y: 1324
+        width: 489
+        height: 639
       alignment: 9
-      pivot: {x: 0.34563744, y: 0.0910576}
+      pivot: {x: 0.35298166, y: 0.06738434}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -469,12 +460,12 @@ TextureImporter:
       name: Durchlauf 1_17
       rect:
         serializedVersion: 2
-        x: 823
-        y: 1973
-        width: 518
-        height: 700
+        x: 2493
+        y: 1324
+        width: 464
+        height: 633
       alignment: 9
-      pivot: {x: 0.36264157, y: 0.06469273}
+      pivot: {x: 0.32845965, y: 0.05652318}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -490,12 +481,12 @@ TextureImporter:
       name: Durchlauf 1_18
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 1984
-        width: 572
-        height: 687
+        x: 3235
+        y: 1324
+        width: 480
+        height: 655
       alignment: 9
-      pivot: {x: 0.42428398, y: 0.06321003}
+      pivot: {x: 0.362706, y: 0.058352217}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -503,27 +494,6 @@ TextureImporter:
       bones: []
       spriteID: a6f25165f7f5ee360800000000000000
       internalID: 7200797854721716074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Durchlauf 1_19
-      rect:
-        serializedVersion: 2
-        x: 1889
-        y: 1975
-        width: 49
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a358d2da1d155010800000000000000
-      internalID: 1176878878671000487
       vertices: []
       indices: 
       edges: []
