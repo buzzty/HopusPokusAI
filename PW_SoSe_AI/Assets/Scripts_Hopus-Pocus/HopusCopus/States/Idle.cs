@@ -19,7 +19,7 @@ namespace AISystem.HopusPocus.States
                 return fsm.GetNextState(enemy);
             }
 
-            return fsm.Idle;
+            //return fsm.Idle;
         }
     }
 }

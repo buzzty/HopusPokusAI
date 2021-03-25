@@ -24,20 +24,20 @@ namespace AISystem.HopusPocus
         {
             base.Awake();
 
-            _phases.Add(_spawnPhase);
+            //_phases.Add(_spawnPhase);
 
             for (int i = 0; i < _attackingPhases.Count; i++)
             {
-                _phases.Add(_attackingPhases[i]);
-                _attackingPhases[i].InitPhase(this);
+                //_phases.Add(_attackingPhases[i]);
+                //_attackingPhases[i].InitPhase(this);
                 // last phase doesnt need switch phase, as it directly transitions -> death
                 if (i + 1 < _attackingPhases.Count)
                 {
-                    _phases.Add(_switchPhase);
+                    //_phases.Add(_switchPhase);
                 }
             }
 
-            _phases.Add(_deathPhase);
+            //_phases.Add(_deathPhase);
             _currentPhaseIndex = 0;
         }
 

@@ -26,13 +26,13 @@ namespace AISystem.HopusPocus
         {
             base.Awake();
 
-            _currentState = _idle;
+            //_currentState = _idle;
         }
 
         protected override void CollectAllStates()
         {
-            _allStates.Add(_idle);
-            _allStates.AddRange(_attackActions);
+            //_allStates.Add(_idle);
+            //_allStates.AddRange(_attackActions);
         }
 
         public HopusPocusState GetNextState(Enemy enemy)
@@ -42,13 +42,13 @@ namespace AISystem.HopusPocus
             {
                 if (r <= mappingEntry.Value)
                 {
-                    return mappingEntry.Key;
+                   //return mappingEntry.Key;
                 }
 
                 r -= mappingEntry.Value;
             }
 
-            return _idle;
+            //return _idle;
         }
 
         public void StartAttack()
