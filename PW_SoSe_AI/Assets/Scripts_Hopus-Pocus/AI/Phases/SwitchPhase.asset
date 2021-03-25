@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d43188ad1730ec489db117df4495ba8, type: 3}
   m_Name: SwitchPhase
   m_EditorClassIdentifier: 
-  _id: {fileID: 0}
+  _id: {fileID: 11400000, guid: 386fa7d868d08b64c83bfdd7e9935dc5, type: 2}
