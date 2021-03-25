@@ -1,19 +1,19 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using AISystem.CagneyCarnation.States;
+using AISystem.HopusPocus.States;
 using UnityEngine;
 
 namespace AISystem.HopusPocus
 {
     public class HopusPocusFsm : EnemyActionFSM<HopusPocusState>
     {
-        [SerializeField] protected Idle _idle = default;
-        [SerializeField] private List<EnemyAttackActionState> _attackActions = new List<EnemyAttackActionState>();
+        [SerializeField] protected HPIdle _idle = default;
+        [SerializeField] private List<HPEnemyAttackActionState> _attackActions = new List<HPEnemyAttackActionState>();
         [SerializeField] private float _minDelayBetweenAttacks = 3.0f;
         [SerializeField] private float _maxDelayBetweenAttacks = 3.0f;
         [SerializeField] private AnimationCurve _attackChainAmount = default;
 
-        public Idle Idle => _idle;
+        public HPIdle Idle => _idle;
         public bool IsOnGlobalCooldown => !_isChainAttack && (_lastAttackTime + _attackDelay > Time.time);
         public bool IsChainAttack => _isChainAttack;
 
@@ -26,30 +26,30 @@ namespace AISystem.HopusPocus
         {
             base.Awake();
 
-            //_currentState = _idle;
+            _currentState = _idle;
         }
 
         protected override void CollectAllStates()
         {
-            //_allStates.Add(_idle);
-            //_allStates.AddRange(_attackActions);
+            _allStates.Add(_idle);
+            _allStates.AddRange(_attackActions);
         }
 
-        //public HopusPocusState GetNextState(Enemy enemy)
-        //{
-            //float r = Random.value;
-            //foreach (KeyValuePair<EnemyAttackActionState, float> mappingEntry in GetAttackActionProbabilityMapping(enemy))
-            //{
-                //if (r <= mappingEntry.Value)
-                //{
-                   //return mappingEntry.Key;
-                //}
+        public HopusPocusState GetNextState(Enemy enemy)
+        {
+            float r = Random.value;
+            foreach (KeyValuePair<HPEnemyAttackActionState, float> mappingEntry in GetAttackActionProbabilityMapping(enemy))
+            {
+                if (r <= mappingEntry.Value)
+                {
+                   return mappingEntry.Key;
+                }
 
-                //r -= mappingEntry.Value;
-            //}
+                r -= mappingEntry.Value;
+            }
 
-            //return _idle;
-        //}
+            return _idle;
+        }
 
         public void StartAttack()
         {
@@ -75,13 +75,13 @@ namespace AISystem.HopusPocus
             _attackDelay = Random.Range(_minDelayBetweenAttacks, _maxDelayBetweenAttacks);
         }
 
-        private Dictionary<EnemyAttackActionState, float> GetAttackActionProbabilityMapping(Enemy enemy)
+        private Dictionary<HPEnemyAttackActionState, float> GetAttackActionProbabilityMapping(Enemy enemy)
         {
-            Dictionary<EnemyAttackActionState, float> mapping = new Dictionary<EnemyAttackActionState, float>();
-            IEnumerable<EnemyAttackActionState> useableAttackActions = _attackActions.Where(c => c.CanBeUsed(enemy, _isChainAttack));
+            Dictionary<HPEnemyAttackActionState, float> mapping = new Dictionary<HPEnemyAttackActionState, float>();
+            IEnumerable<HPEnemyAttackActionState> useableAttackActions = _attackActions.Where(c => c.CanBeUsed(enemy, _isChainAttack));
 
             float totalChance = useableAttackActions.Sum(c => c.Chance);
-            foreach (EnemyAttackActionState enemyAttackActionState in useableAttackActions)
+            foreach (HPEnemyAttackActionState enemyAttackActionState in useableAttackActions)
             {
                 mapping.Add(enemyAttackActionState, enemyAttackActionState.Chance / totalChance);
             }

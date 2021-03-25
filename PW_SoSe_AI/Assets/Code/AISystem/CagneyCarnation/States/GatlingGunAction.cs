@@ -6,7 +6,7 @@ using Random = UnityEngine.Random;
 namespace AISystem.CagneyCarnation.States
 {
 	[CreateAssetMenu(menuName = "Cuphead/Bosses/CagneyCarnation/Attacks/Gatling", fileName = "Gatling", order = 0)]
-	public class GatlingGunAction : EnemyAttackActionState
+	public class GatlingGunAction : HPEnemyAttackActionState
 	{
 		[SerializeField] private SeedProjectileBehaviour _normalProjectile = default;
 		[SerializeField] private SeedProjectileBehaviour _parryProjectile = default;

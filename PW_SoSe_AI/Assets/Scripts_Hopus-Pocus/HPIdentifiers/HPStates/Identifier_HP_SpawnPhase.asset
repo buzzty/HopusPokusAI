@@ -9,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58d0cfabe838f441a12d90327b86262, type: 3}
-  m_Name: SpawnPhase
+  m_Script: {fileID: 11500000, guid: fd15050587534ad9babdfd919dc657be, type: 3}
+  m_Name: Identifier_HP_SpawnPhase
   m_EditorClassIdentifier: 
-  _id: {fileID: 11400000, guid: e12235c2241d75749b51080a17dc1733, type: 2}

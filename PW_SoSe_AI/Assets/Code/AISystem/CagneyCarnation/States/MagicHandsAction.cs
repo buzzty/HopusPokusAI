@@ -9,7 +9,7 @@ using Random = UnityEngine.Random;
 namespace AISystem.CagneyCarnation.States
 {
 	[CreateAssetMenu(menuName = "Cuphead/Bosses/CagneyCarnation/Attacks/MagicHands", fileName = "MagicHands", order = 0)]
-	public class MagicHandsAction : EnemyAttackActionState
+	public class MagicHandsAction : HPEnemyAttackActionState
 	{
 		[SerializeField] private List<MagicHandsSpawnEntry> _projectilePrefabs = new List<MagicHandsSpawnEntry>();
 		[SerializeField] private GameObject _spawnFX = default;

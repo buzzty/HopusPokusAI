@@ -4,7 +4,7 @@ using UnityEngine;
 namespace AISystem.CagneyCarnation.States
 {
 	[CreateAssetMenu(menuName = "Cuphead/Bosses/CagneyCarnation/Attacks/SpitAttack", fileName = "SpitAttack", order = 0)]
-	public class SpitAttack : EnemyAttackActionState
+	public class SpitAttack : HPEnemyAttackActionState
 	{
 		[SerializeField] private SpitProjectileBehaviour _projectilePrefab = default;
 

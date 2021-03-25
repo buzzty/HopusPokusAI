@@ -1,7 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
-
-namespace AISystem.HopusPocus
+﻿namespace AISystem.HopusPocus
 {
     public abstract class HopusPocusState : ScriptableEnemyState<EnemyActionFSM<HopusPocusState>, HopusPocusState>
     {

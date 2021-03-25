@@ -8,7 +8,7 @@ namespace AISystem.CagneyCarnation
 	public class CagneyCarnationFsm : EnemyActionFSM<CagneyCarnationState>
 	{
 		[SerializeField] protected Idle _idle = default;
-		[SerializeField] private List<EnemyAttackActionState> _attackActions = new List<EnemyAttackActionState>();
+		[SerializeField] private List<HPEnemyAttackActionState> _attackActions = new List<HPEnemyAttackActionState>();
 		[SerializeField] private float _minDelayBetweenAttacks = 3.0f;
 		[SerializeField] private float _maxDelayBetweenAttacks = 3.0f;
 		[SerializeField] private AnimationCurve _attackChainAmount = default;
@@ -38,7 +38,7 @@ namespace AISystem.CagneyCarnation
 		public CagneyCarnationState GetNextState(Enemy enemy)
 		{
 			float r = Random.value;
-			foreach (KeyValuePair<EnemyAttackActionState,float> mappingEntry in GetAttackActionProbabilityMapping(enemy))
+			foreach (KeyValuePair<HPEnemyAttackActionState,float> mappingEntry in GetAttackActionProbabilityMapping(enemy))
 			{
 				if (r <= mappingEntry.Value)
 				{
@@ -75,13 +75,13 @@ namespace AISystem.CagneyCarnation
 			_attackDelay = Random.Range(_minDelayBetweenAttacks, _maxDelayBetweenAttacks);
 		}
 		
-		private Dictionary<EnemyAttackActionState, float> GetAttackActionProbabilityMapping(Enemy enemy)
+		private Dictionary<HPEnemyAttackActionState, float> GetAttackActionProbabilityMapping(Enemy enemy)
 		{
-			Dictionary<EnemyAttackActionState, float> mapping = new Dictionary<EnemyAttackActionState, float>();
-			IEnumerable<EnemyAttackActionState> useableAttackActions = _attackActions.Where(c => c.CanBeUsed(enemy, _isChainAttack));
+			Dictionary<HPEnemyAttackActionState, float> mapping = new Dictionary<HPEnemyAttackActionState, float>();
+			IEnumerable<HPEnemyAttackActionState> useableAttackActions = _attackActions.Where(c => c.CanBeUsed(enemy, _isChainAttack));
 			
 			float totalChance = useableAttackActions.Sum(c => c.Chance);
-			foreach (EnemyAttackActionState enemyAttackActionState in useableAttackActions)
+			foreach (HPEnemyAttackActionState enemyAttackActionState in useableAttackActions)
 			{
 				mapping.Add(enemyAttackActionState, enemyAttackActionState.Chance / totalChance);
 			}
