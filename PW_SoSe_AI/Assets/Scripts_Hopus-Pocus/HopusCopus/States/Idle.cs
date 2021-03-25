@@ -12,14 +12,14 @@ namespace AISystem.HopusPocus.States
             enemy.Animator.SetTrigger("Idle");
         }
 
-        protected override HopusPocusState OnStateUpdate(HopusPocusFsm fsm, Enemy enemy)
-        {
-            if (!fsm.IsOnGlobalCooldown)
-            {
-                return fsm.GetNextState(enemy);
-            }
+        //protected override HopusPocusState OnStateUpdate(HopusPocusFsm fsm, Enemy enemy)
+        //{
+            //if (!fsm.IsOnGlobalCooldown)
+            //{
+                //return fsm.GetNextState(enemy);
+            //}
 
             //return fsm.Idle;
-        }
+        //}
     }
 }

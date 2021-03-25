@@ -35,21 +35,21 @@ namespace AISystem.HopusPocus
             //_allStates.AddRange(_attackActions);
         }
 
-        public HopusPocusState GetNextState(Enemy enemy)
-        {
-            float r = Random.value;
-            foreach (KeyValuePair<EnemyAttackActionState, float> mappingEntry in GetAttackActionProbabilityMapping(enemy))
-            {
-                if (r <= mappingEntry.Value)
-                {
+        //public HopusPocusState GetNextState(Enemy enemy)
+        //{
+            //float r = Random.value;
+            //foreach (KeyValuePair<EnemyAttackActionState, float> mappingEntry in GetAttackActionProbabilityMapping(enemy))
+            //{
+                //if (r <= mappingEntry.Value)
+                //{
                    //return mappingEntry.Key;
-                }
+                //}
 
-                r -= mappingEntry.Value;
-            }
+                //r -= mappingEntry.Value;
+            //}
 
             //return _idle;
-        }
+        //}
 
         public void StartAttack()
         {
