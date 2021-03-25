@@ -1,6 +1,6 @@
 ﻿namespace AISystem.HopusPocus
 {
-    public abstract class AnimatorDrivenPhase : PhaseState
+    public abstract class HPAnimatorDrivenPhase : HPPhaseState
     {
         private bool _isAnimationDone;
 

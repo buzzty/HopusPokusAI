@@ -3,7 +3,7 @@
 namespace AISystem.HopusPocus.Phases
 {
     [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusCopus/States/DeathPhase", fileName = "DeathPhase", order = 0)]
-    public class DeathPhase : PhaseState
+    public class HPDeathPhase : HPPhaseState
     {
         public override void OnStateEnter(EnemyPhaseFSM phaseFsm, Enemy enemy)
         {

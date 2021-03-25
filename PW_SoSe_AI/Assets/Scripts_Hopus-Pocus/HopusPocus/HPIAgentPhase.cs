@@ -1,6 +1,6 @@
 ﻿namespace AISystem.HopusPocus
 {
-    public interface IAgentPhase
+    public interface HPIAgentPhase
     {
         StateIdentifier Id { get; }
 

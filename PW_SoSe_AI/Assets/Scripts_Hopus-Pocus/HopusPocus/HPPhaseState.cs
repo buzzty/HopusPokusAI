@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace AISystem.HopusPocus
 {
-    public abstract class PhaseState : ScriptableObject, IAgentPhase
+    public abstract class HPPhaseState : ScriptableObject, HPIAgentPhase
     {
         [SerializeField] private StateIdentifier _id;
 

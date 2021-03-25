@@ -16,9 +16,9 @@ namespace AISystem.HopusPocus
         [SerializeField] private DeathPhase _deathPhase;
         [SerializeField] private EnemyAnimationEventReceiver _animEventReceiver = default;
         public int CurrentPhaseIndex => _currentPhaseIndex;
-        private List<PhaseState> _phases = new List<PhaseState>();
+        private List<HPPhaseState> _phases = new List<HPPhaseState>();
         private int _currentPhaseIndex;
-        private IAgentPhase CurrentPhase => _phases[_currentPhaseIndex];
+        private HPIAgentPhase CurrentPhase => _phases[_currentPhaseIndex];
 
         protected override void Awake()
         {
@@ -66,7 +66,7 @@ namespace AISystem.HopusPocus
 
         private void AnimationDone(StateIdentifier stateIdentifier)
         {
-            if (CurrentPhase.Id.Equals(stateIdentifier) && CurrentPhase is AnimatorDrivenPhase animatorDrivenPhase)
+            if (CurrentPhase.Id.Equals(stateIdentifier) && CurrentPhase is HPAnimatorDrivenPhase animatorDrivenPhase)
             {
                 animatorDrivenPhase.AnimationDone();
             }

@@ -5,7 +5,7 @@ using UnityEngine;
 namespace AISystem.HopusPocus.Phases
 {
     [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusCopus/States/SpawnPhase", fileName = "SpawnPhase", order = 0)]
-    public class SpawnPhase : AnimatorDrivenPhase
+    public class HPSpawnPhase : HPAnimatorDrivenPhase
     {
         public override void OnStateEnter(EnemyPhaseFSM phaseFsm, Enemy enemy)
         {
