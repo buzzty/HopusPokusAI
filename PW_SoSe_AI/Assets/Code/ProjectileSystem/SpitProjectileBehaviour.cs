@@ -10,6 +10,7 @@ namespace ProjectileSystem
 		protected override void Update()
 		{
 			base.Update();
+			// move along the x-axis, while using sin based movement along the y-axis
 			transform.position = new Vector3(transform.position.x - (_flyingSpeed * Time.deltaTime), _amplitude * Mathf.Sin(Time.time * _speed), 0f);
 		}
 	}

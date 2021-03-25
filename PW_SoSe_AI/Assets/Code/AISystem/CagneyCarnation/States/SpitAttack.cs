@@ -3,9 +3,15 @@ using UnityEngine;
 
 namespace AISystem.CagneyCarnation.States
 {
+	/// <summary>
+	/// 	Instantiates a <see cref="SpitProjectileBehaviour"/> to shoot at the player.
+	/// </summary>
 	[CreateAssetMenu(menuName = "Cuphead/Bosses/CagneyCarnation/Attacks/SpitAttack", fileName = "SpitAttack", order = 0)]
-	public class SpitAttack : HPEnemyAttackActionState
+	public class SpitAttack : EnemyAttackActionState
 	{
+		/// <summary>
+		/// 	Prefab for the projectile to spit
+		/// </summary>
 		[SerializeField] private SpitProjectileBehaviour _projectilePrefab = default;
 
 		private Transform _spawnPoint;
@@ -13,6 +19,7 @@ namespace AISystem.CagneyCarnation.States
 		public override void InitState()
 		{
 			base.InitState();
+			// find the spawn point of the spit attack
 			_spawnPoint = FindObjectOfType<SpitProjectileSpawnPointMarker>().TransformCached;
 		}
 
@@ -20,7 +27,9 @@ namespace AISystem.CagneyCarnation.States
 		{
 			base.OnStateEnter(fsm, enemy);
 
+			// playback animation
 			enemy.Animator.SetTrigger("Spit");
+			// sub to event
 			EnemyAnimationEventReceiver.OnSpawnSpitProjectile += Spawn;
 		}
 
@@ -32,6 +41,7 @@ namespace AISystem.CagneyCarnation.States
 
 		private void Spawn()
 		{
+			// spawn proectiole and set its position
 			Instantiate(_projectilePrefab).transform.position = _spawnPoint.position;
 		}
 	}

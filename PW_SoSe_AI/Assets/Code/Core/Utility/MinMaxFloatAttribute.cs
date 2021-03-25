@@ -4,6 +4,7 @@ namespace Core.Utility
 {
 	/// <summary>
 	///  Attribute to work in junction with the <see cref="MinMaxFloat"/>
+	///  Provides a minimum and a maximum value to define ranges.
 	/// </summary>
 	public class MinMaxFloatAttribute : Attribute
 	{

@@ -2,7 +2,10 @@
 
 namespace AISystem
 {
-	[CreateAssetMenu(menuName = "Cuphead/AI/StateIdentifier", fileName = "Identifier_Hp_", order = 0)]
+	/// <summary>
+	/// 	Identifier scriptable object which is used to compare instances against another
+	/// </summary>
+	[CreateAssetMenu(menuName = "Cuphead/AI/StateIdentifier", fileName = "StateIdentifier", order = 0)]
 	public class StateIdentifier : ScriptableObject
 	{
 	}

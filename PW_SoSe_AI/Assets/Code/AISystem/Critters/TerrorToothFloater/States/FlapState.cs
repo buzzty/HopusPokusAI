@@ -3,6 +3,9 @@ using UnityEngine;
 
 namespace AISystem.Critters.TerrorToothFloater.States
 {
+	/// <summary>
+	/// 	Flaps left or right
+	/// </summary>
 	[CreateAssetMenu(menuName = "Cuphead/Critters/MiniFlower/States/FlapState", fileName = "MiniFlower_Flap", order = 0)]
 	public class FlapState : MiniFlowerState
 	{
@@ -32,12 +35,15 @@ namespace AISystem.Critters.TerrorToothFloater.States
 
 		protected override MiniFlowerState OnStateUpdate(MiniFlower fsm, Enemy enemy)
 		{
+			// move
 			enemy.TransformCached.position += (fsm.ToLeft ? Vector3.left : Vector3.right) * (_flapSpeed * Time.deltaTime);
+			// need to change direction?
 			if (_heightMarker.HitBorder(enemy.TransformCached.position))
 			{
 				fsm.ToLeft = !fsm.ToLeft;
 			}
 			
+			// keep track of time - spit every now and then!
 			fsm.FlapDuration -= Time.deltaTime;
 			if (fsm.FlapDuration <= 0)
 			{

@@ -10,9 +10,11 @@ namespace AISystem.Critters
 {
 	public class SeedObjectSpawner : CachedMonoBehaviour
 	{
+		// Animation curve is used to map probability to spawn another floater -> amount of floaters present
 		[SerializeField] private AnimationCurve _miniFlowerSpawnProbabilityCurve = default;
 		[SerializeField] private VineCritterSpawner _vineCritterSpawnerPrefab;
 
+		// keep trakc of game entitiies spawned per seed type.
 		private Dictionary<SeedType, int> _seedTypeAmountMapping = new Dictionary<SeedType, int>();
 		
 		protected override void Awake()
@@ -52,10 +54,16 @@ namespace AISystem.Critters
 			}
 		}
 
+		/// <summary>
+		/// 	Spawns a ToothyTerrorFlaoter or just a ToothyTerror based on its SeedType.
+		/// </summary>
+		/// <param name="type"></param>
+		/// <param name="tr"></param>
 		private void SpawnVineForSeed(SeedType type, Transform tr)
 		{
 			if (type == SeedType.ToothyTerrorFloater)
 			{
+				// check probability to see if we can still spawn another TTF or need to change it to a TT.
 				int currentFloaters = _seedTypeAmountMapping[SeedType.ToothyTerrorFloater];
 				float probabilityForNewFloater = _miniFlowerSpawnProbabilityCurve.Evaluate(currentFloaters);
 				float roll = Random.value;

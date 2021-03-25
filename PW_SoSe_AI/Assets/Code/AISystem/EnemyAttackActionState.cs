@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace AISystem
 {
+	/// <summary>
+	/// 	Base state for all attacks of CagneyCarnation. Can be driven by the animator.
+	/// </summary>
 	public abstract class EnemyAttackActionState : CagneyCarnationState, IAnimatorDriveable
 	{
 		[SerializeField] private float _attackCooldown = 3f;
@@ -16,6 +19,12 @@ namespace AISystem
 		protected bool _isAnimationDone;
 		private float _lastTimeUsed = 0;
 
+		/// <summary>
+		/// 	Is the attack currently on cooldown and not limited by current amount of hp?
+		/// </summary>
+		/// <param name="enemy"></param>
+		/// <param name="isChainAttack"></param>
+		/// <returns></returns>
 		public bool CanBeUsed(Enemy enemy, bool isChainAttack)
 		{
 			return (!IsOnCooldown || isChainAttack) && (!_limitUsageByHP || enemy.NormalizedHealth.IsInRange(_hpMinMax));

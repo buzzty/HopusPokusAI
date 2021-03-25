@@ -28,6 +28,12 @@ namespace Core.Utility
 
 	public static class FloatExtensions
 	{
+		/// <summary>
+		/// 	Extension method that checks whether a float is in the given range or not.
+		/// </summary>
+		/// <param name="f">float to check</param>
+		/// <param name="range">range to compare against</param>
+		/// <returns>True if the value is within the range</returns>
 		public static bool IsInRange(this float f, MinMaxFloat range)
 		{
 			return (range.MaxValue >= f) && (f >= range.MinValue);
@@ -41,6 +47,13 @@ namespace Core.Utility
 			return list[Random.Range(0, list.Count)];
 		}
 
+		/// <summary>
+		/// 	Randomly pick an element from a list based on a random roll. Considers weight of the elements.
+		/// </summary>
+		/// <param name="list"></param>
+		/// <param name="roll"></param>
+		/// <typeparam name="T"></typeparam>
+		/// <returns></returns>
 		public static T PickRandomWeighted<T>(this List<T> list, float roll) where T : IWeightable
 		{
 			float totalSum = list.Sum(l => l.Weight);
@@ -59,6 +72,11 @@ namespace Core.Utility
 			return default;
 		}   
 		
+		/// <summary>
+		/// 	Shuffles the order of elements in a list.
+		/// </summary>
+		/// <param name="ts"></param>
+		/// <typeparam name="T"></typeparam>
 		public static void Shuffle<T>(this IList<T> ts) 
 		{
 			int count = ts.Count;
@@ -72,6 +90,9 @@ namespace Core.Utility
 		}
 	}
 
+	/// <summary>
+	/// 	Interface to define weight for randomness on a class.
+	/// </summary>
 	public interface IWeightable
 	{
 		int Weight { get; }

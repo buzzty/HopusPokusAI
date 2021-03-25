@@ -4,6 +4,9 @@ using Random = UnityEngine.Random;
 
 namespace AISystem.Critters.TerrorToothFloater
 {
+	/// <summary>
+	/// 	One of the concrete implementations of the <see cref="EnemyActionFSM{TState}"/>. It uses the <see cref="MiniFlowerState"/> to realize the behaviour of the ToothyTerrorFloater.
+	/// </summary>
 	public class MiniFlower : EnemyActionFSM<MiniFlowerState>
 	{
 		[SerializeField] private Enemy _enemy;

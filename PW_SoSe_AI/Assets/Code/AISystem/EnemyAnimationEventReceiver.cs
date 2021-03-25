@@ -4,8 +4,13 @@ using UnityEngine;
 
 namespace AISystem
 {
+	/// <summary>
+	/// 	Class that receives various animation events and forwards them. All objects can listen to these events that way.
+	/// 	Simple way to propagate animation events from a to b.
+	/// </summary>
 	public class EnemyAnimationEventReceiver : CachedMonoBehaviour
 	{
+		// all these get called in some of the animations. Select CagneyCarnationBoss -> GraphicsObejct and check its animations for how its done & setup
 		public event Action<StateIdentifier> OnAnimationDone;
 		public event Action OnSpawnGatlingProjectile;
 		public static event Action OnSpawnMagicHandsProjectile;

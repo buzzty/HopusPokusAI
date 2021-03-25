@@ -4,6 +4,9 @@ using Random = UnityEngine.Random;
 
 namespace AISystem.CagneyCarnation.States
 {
+	/// <summary>
+	/// 	FX to place while shooting gatling projectiles
+	/// </summary>
 	public class GatlingFX : CachedMonoBehaviour
 	{
 		[SerializeField] private GameObject _normalFX = default;
@@ -36,6 +39,7 @@ namespace AISystem.CagneyCarnation.States
 
 		private void SpawnFX()
 		{
+			// uses multiple different GameObejcts of the same FX so it doesnt screw up the anims & sound
 			_fx[_index].gameObject.SetActive(true);
 			_fx[_index].SetTrigger("Spawn");
 

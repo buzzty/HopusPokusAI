@@ -3,6 +3,9 @@ using CharacterSystem;
 
 namespace GameFlowSystem.GameStates
 {
+	/// <summary>
+	/// 	State for the match. Keep game loop up while we are in this.
+	/// </summary>
 	public class MatchState : MonoGameState
 	{
 		private bool _playerDied;
@@ -10,6 +13,7 @@ namespace GameFlowSystem.GameStates
 
 		public override void StateEnter()
 		{
+			// listening to events to see if player/boss dies
 			PlayerDamageable.PlayerDeath += OnPlayerDeath;
 			Enemy.BossDeath += OnBossDeath;
 		}
@@ -26,11 +30,13 @@ namespace GameFlowSystem.GameStates
 
 		public override IGameState StateUpdate()
 		{
+			// transition to next state if player is dead
 			if (_playerDied)
 			{
 				return GameManager.GameOverState;
 			}
 
+			// transition to next state if boss is dead
 			if (_bossDied)
 			{
 				return GameManager.KnockoutState;

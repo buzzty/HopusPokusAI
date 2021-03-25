@@ -2,6 +2,10 @@
 
 namespace Core
 {
+	/// <summary>
+	/// 	This class is a behaviour that gets attached to an animator state.
+	/// 	We can use this to our advantage in order to disable gameobjects, when they exit certain animation states (see below)
+	/// </summary>
 	public class DisableOnExitBehaviour : StateMachineBehaviour
 	{
 		public override void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)

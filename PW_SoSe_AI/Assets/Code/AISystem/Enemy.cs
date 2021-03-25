@@ -5,6 +5,9 @@ using UnityEngine;
 
 namespace AISystem
 {
+	/// <summary>
+	/// 	Provides basic ocmponents for the enemy (audio, animator, ...) and implements the <see cref="IDamageable"/> interface. 
+	/// </summary>
 	public class Enemy : CachedMonoBehaviour, IDamageable
 	{
 		public static event Action BossDeath;

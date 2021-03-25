@@ -3,6 +3,9 @@ using Core.Utility;
 
 namespace Core
 {
+	/// <summary>
+	/// 	Listens to the <see cref="PlayerDamageable.PlayerDeath"/> event and disables the gameobejct it is attached to.
+	/// </summary>
 	public class DisableOnGameOver : CachedMonoBehaviour
 	{
 		private void Start()
