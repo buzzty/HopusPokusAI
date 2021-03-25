@@ -3,9 +3,9 @@ using System.Linq;
 using AISystem.CagneyCarnation.States;
 using UnityEngine;
 
-namespace AISystem.HopusPopus
+namespace AISystem.HopusPocus
 {
-    public class HopusPopusFsm : EnemyActionFSM<HopusPopusState>
+    public class HopusPocusFsm : EnemyActionFSM<HopusPocusState>
     {
         [SerializeField] protected Idle _idle = default;
         [SerializeField] private List<EnemyAttackActionState> _attackActions = new List<EnemyAttackActionState>();
@@ -35,7 +35,7 @@ namespace AISystem.HopusPopus
             _allStates.AddRange(_attackActions);
         }
 
-        public HopusPopusState GetNextState(Enemy enemy)
+        public HopusPocusState GetNextState(Enemy enemy)
         {
             float r = Random.value;
             foreach (KeyValuePair<EnemyAttackActionState, float> mappingEntry in GetAttackActionProbabilityMapping(enemy))

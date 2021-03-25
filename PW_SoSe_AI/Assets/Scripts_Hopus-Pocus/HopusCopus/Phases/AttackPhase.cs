@@ -10,7 +10,7 @@ namespace AISystem.HopusPocus.Phases
         [SerializeField] private float _normalizedHPThreshold = 0.5f;
         [SerializeField] private FSMIdentifier _phaseFSM = default;
 
-        private EnemyActionFSM<HopusPocus> _fsm;
+        private EnemyActionFSM<HopusPocusState> _fsm;
 
         public override void InitPhase(EnemyPhaseFSM enemyPhaseFsm)
         {
