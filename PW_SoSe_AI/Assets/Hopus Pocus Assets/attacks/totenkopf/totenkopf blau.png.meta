@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: ee7f6582c2bb8454883c6886b919bbcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5651352709611793498
+    second: totenkopf blau_1
+  - first:
+      213: 5974212333698929471
+    second: totenkopf blau_2
+  - first:
+      213: -1177471800259060430
+    second: totenkopf blau_3
+  - first:
+      213: -7073223357585840917
+    second: totenkopf blau_4
+  - first:
+      213: -2777331627117129458
+    second: totenkopf blau_5
+  - first:
+      213: 503077904055774929
+    second: totenkopf blau_6
+  - first:
+      213: 6829980199019200695
+    second: totenkopf blau_7
+  - first:
+      213: 2391139613787282253
+    second: totenkopf blau_8
+  - first:
+      213: -6458443252709510885
+    second: totenkopf blau_9
+  - first:
+      213: 6627922179124395168
+    second: totenkopf blau_10
+  - first:
+      213: 4859727256637720607
+    second: totenkopf blau_11
+  - first:
+      213: -4500997366438792109
+    second: totenkopf blau_13
+  - first:
+      213: -8077394224093291207
+    second: totenkopf blau_14
+  - first:
+      213: -1131649332883073228
+    second: totenkopf blau_15
+  - first:
+      213: -4748637382062093448
+    second: totenkopf blau_16
+  - first:
+      213: 5491231067570285262
+    second: totenkopf blau_17
+  - first:
+      213: 2269635427988715752
+    second: totenkopf blau_18
+  - first:
+      213: -3599607772786273928
+    second: totenkopf blau_19
+  - first:
+      213: 2322344227938750428
+    second: totenkopf blau_20
+  - first:
+      213: -6910636542699967445
+    second: totenkopf blau_21
+  - first:
+      213: 7134403654426686339
+    second: totenkopf blau_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totenkopf blau_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1719
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25611195, y: 0.38328955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d52b17ac5291b0800000000000000
+      internalID: -5651352709611793498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1718
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2550643, y: 0.41636765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d1eaf67aa8e250800000000000000
+      internalID: 5974212333698929471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1719
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.30185285, y: 0.37842637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd48cd2a7c8afe0800000000000000
+      internalID: -1177471800259060430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1719
+        width: 73
+        height: 86
+      alignment: 9
+      pivot: {x: 0.3261351, y: 0.3573353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a912f4dcd6dd90800000000000000
+      internalID: -7073223357585840917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1718
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.3915194, y: 0.39151862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d93e999fe479d0800000000000000
+      internalID: -2777331627117129458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1718
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.40017253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea79530ba4bf600800000000000000
+      internalID: 503077904055774929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_7
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1718
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.66922677, y: 0.36057767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cd71edc6f8ce50800000000000000
+      internalID: 6829980199019200695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_8
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1718
+        width: 75
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6635856, y: 0.4206721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd7285fc80f2120800000000000000
+      internalID: 2391139613787282253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_9
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1718
+        width: 88
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7307642, y: 0.3871799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b113b3874100f56a0800000000000000
+      internalID: -6458443252709510885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_10
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1718
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.69411045, y: 0.40314823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac74ad0b1c1bfb50800000000000000
+      internalID: 6627922179124395168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_11
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1718
+        width: 79
+        height: 88
+      alignment: 9
+      pivot: {x: 0.6660125, y: 0.37019208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cc252138317340800000000000000
+      internalID: 4859727256637720607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1470
+        width: 85
+        height: 83
+      alignment: 9
+      pivot: {x: 0.6891366, y: 0.40824872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35472761ebe3981c0800000000000000
+      internalID: -4500997366438792109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1470
+        width: 88
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7307653, y: 0.39188096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d9022cfb457ef80800000000000000
+      internalID: -8077394224093291207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1470
+        width: 75
+        height: 96
+      alignment: 9
+      pivot: {x: 0.66358644, y: 0.4206721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437523f6de29b40f0800000000000000
+      internalID: -1131649332883073228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1470
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.679182, y: 0.35096186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b4c0bd573791eb0800000000000000
+      internalID: -4748637382062093448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1470
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49457413, y: 0.40017116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaad1aef85c43c40800000000000000
+      internalID: 5491231067570285262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1470
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.39694372, y: 0.39151862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b8ee856d5f7f10800000000000000
+      internalID: 2269635427988715752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_19
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1470
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.39152017, y: 0.3860943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d65c5dcf9b0ec0800000000000000
+      internalID: -3599607772786273928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_20
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1471
+        width: 73
+        height: 86
+      alignment: 9
+      pivot: {x: 0.3261334, y: 0.362255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc77065cf9a3020800000000000000
+      internalID: 2322344227938750428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_21
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1471
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2911408, y: 0.37356323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ce884bdac7810a0800000000000000
+      internalID: -6910636542699967445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf blau_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1470
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.26062974, y: 0.41144934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f952f25e720360800000000000000
+      internalID: 7134403654426686339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

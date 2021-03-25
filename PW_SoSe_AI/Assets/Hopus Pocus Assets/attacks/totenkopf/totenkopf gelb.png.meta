@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: ae111a1976d8ed3408479b6ad56c0f97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5232142792129543367
+    second: totenkopf gelb_0
+  - first:
+      213: -8880688508391649848
+    second: totenkopf gelb_1
+  - first:
+      213: 4392700385828784844
+    second: totenkopf gelb_2
+  - first:
+      213: 2066889752474160892
+    second: totenkopf gelb_3
+  - first:
+      213: -3810004499556577654
+    second: totenkopf gelb_4
+  - first:
+      213: 2581998415380440127
+    second: totenkopf gelb_5
+  - first:
+      213: 8171745033061772760
+    second: totenkopf gelb_6
+  - first:
+      213: 8886127452461838037
+    second: totenkopf gelb_7
+  - first:
+      213: 8977425292978080154
+    second: totenkopf gelb_8
+  - first:
+      213: -1083926563261124531
+    second: totenkopf gelb_9
+  - first:
+      213: -6483334369619377228
+    second: totenkopf gelb_10
+  - first:
+      213: -700846579705023198
+    second: totenkopf gelb_11
+  - first:
+      213: 1438199208107513339
+    second: totenkopf gelb_12
+  - first:
+      213: 4164158569060585677
+    second: totenkopf gelb_13
+  - first:
+      213: 2825918813238266329
+    second: totenkopf gelb_14
+  - first:
+      213: -8734010747659905131
+    second: totenkopf gelb_15
+  - first:
+      213: 4497630208592097100
+    second: totenkopf gelb_16
+  - first:
+      213: -326821757556217717
+    second: totenkopf gelb_17
+  - first:
+      213: 3933656130480304293
+    second: totenkopf gelb_18
+  - first:
+      213: 2700371016015928974
+    second: totenkopf gelb_19
+  - first:
+      213: 4929045093128371127
+    second: totenkopf gelb_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: totenkopf gelb_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1025
+        width: 76
+        height: 87
+      alignment: 9
+      pivot: {x: 0.6698956, y: 0.37808684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc700bf52e4c9840800000000000000
+      internalID: 5232142792129543367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1025
+        width: 82
+        height: 83
+      alignment: 9
+      pivot: {x: 0.6630878, y: 0.37776792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd0c608ad471c480800000000000000
+      internalID: -8880688508391649848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1026
+        width: 89
+        height: 80
+      alignment: 9
+      pivot: {x: 0.70207506, y: 0.378949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccacb063ab106fc30800000000000000
+      internalID: 4392700385828784844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1025
+        width: 88
+        height: 87
+      alignment: 9
+      pivot: {x: 0.69913065, y: 0.40989107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0e1e67411fac10800000000000000
+      internalID: 2066889752474160892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1025
+        width: 85
+        height: 98
+      alignment: 9
+      pivot: {x: 0.68352264, y: 0.42471004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4a4b0815202bc0800000000000000
+      internalID: -3810004499556577654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1025
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48817483, y: 0.38175768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f346f57f0e915d320800000000000000
+      internalID: 2581998415380440127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1029
+        width: 86
+        height: 90
+      alignment: 9
+      pivot: {x: 0.31768516, y: 0.38215062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda5b2dfced76170800000000000000
+      internalID: 8171745033061772760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_7
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1025
+        width: 92
+        height: 96
+      alignment: 9
+      pivot: {x: 0.32070392, y: 0.41833878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dea5d856ddd15b70800000000000000
+      internalID: 8886127452461838037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_8
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1025
+        width: 81
+        height: 86
+      alignment: 9
+      pivot: {x: 0.27227256, y: 0.36594552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99c0915db8369c70800000000000000
+      internalID: 8977425292978080154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_9
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1025
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.33859864, y: 0.3847129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f53a988e15f0f0800000000000000
+      internalID: -1083926563261124531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_10
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1025
+        width: 87
+        height: 83
+      alignment: 9
+      pivot: {x: 0.34098306, y: 0.37221152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b381c2bdb19606a0800000000000000
+      internalID: -6483334369619377228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 849
+        width: 87
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3380034, y: 0.36968628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22572aebfb71646f0800000000000000
+      internalID: -700846579705023198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 849
+        width: 87
+        height: 83
+      alignment: 9
+      pivot: {x: 0.34177056, y: 0.37363443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf51f735f8285f310800000000000000
+      internalID: 1438199208107513339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 849
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: 0.34021682, y: 0.3696407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc05149e7201ac930800000000000000
+      internalID: 4164158569060585677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 849
+        width: 85
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25707147, y: 0.3589868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90923303ea73720800000000000000
+      internalID: 2825918813238266329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 849
+        width: 91
+        height: 96
+      alignment: 9
+      pivot: {x: 0.31991208, y: 0.42147446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979941ff7f8ac680800000000000000
+      internalID: -8734010747659905131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_16
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 849
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.48319343, y: 0.37814018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa23268daca6e30800000000000000
+      internalID: 4497630208592097100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_17
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 849
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: 0.691197, y: 0.4020491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882ef3d755e67bf0800000000000000
+      internalID: -326821757556217717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_18
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 850
+        width: 85
+        height: 80
+      alignment: 9
+      pivot: {x: 0.70051557, y: 0.37708968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f0d5c867279630800000000000000
+      internalID: 3933656130480304293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_19
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 849
+        width: 86
+        height: 81
+      alignment: 9
+      pivot: {x: 0.7058063, y: 0.3786071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed363c125a97520800000000000000
+      internalID: 2700371016015928974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: totenkopf gelb_20
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 849
+        width: 82
+        height: 83
+      alignment: 9
+      pivot: {x: 0.6678794, y: 0.38943005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7cc1a56c776440800000000000000
+      internalID: 4929045093128371127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
