@@ -13,8 +13,13 @@ public class CardProjectileBehaviour : AttackProjectileBehaviour
         transform.position += Vector3.down * speed * Time.deltaTime;
     }
 
-    private void OnTriggerEnter2D(Collider other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        if (collision.CompareTag("Symbols"))
+        {
+            Destroy(gameObject);
+        }
     }
+    
+    
 }

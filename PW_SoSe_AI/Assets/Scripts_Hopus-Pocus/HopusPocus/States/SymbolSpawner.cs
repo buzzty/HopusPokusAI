@@ -40,7 +40,7 @@ namespace AISystem.HopusPocus.States
            int randomSymbolIndex = Random.Range(0, symbolAttack.Length);
           GameObject newSymbolAttack = Instantiate(symbolAttack[randomSymbolIndex], spawnPoints[randomSymbolIndex]);
           //int randomSpawnIndex = Random.Range(0, spawnPoints.Length);
-//           newSymbolAttack.transform.position = ;
+            //           newSymbolAttack.transform.position = ;
         }
         
         
