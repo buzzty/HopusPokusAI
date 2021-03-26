@@ -1,0 +1,2061 @@
+fileFormatVersion: 2
+guid: 1e68c8e683bcd4555a92aff2adea7ae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6308480224175977944
+    second: Sal Spudder 1
+  - first:
+      213: -102642754614876110
+    second: Sal Spudder 2
+  - first:
+      213: -346134359740376287
+    second: Sal Spudder 3
+  - first:
+      213: 7452138768536481283
+    second: Sal Spudder 4
+  - first:
+      213: -1745893066462383387
+    second: Sal Spudder 5
+  - first:
+      213: 3491779394608935908
+    second: Sal Spudder 9
+  - first:
+      213: 180841500771245709
+    second: Sal Spudder 8
+  - first:
+      213: -7618499296727308973
+    second: Sal Spudder 6
+  - first:
+      213: -8870621030260667150
+    second: Sal Spudder 7
+  - first:
+      213: -826166341321841540
+    second: Sal Spudder 10
+  - first:
+      213: 4760649996179973250
+    second: Sal Spudder 11
+  - first:
+      213: -1220426478951764819
+    second: Sal Spudder 12
+  - first:
+      213: 2364021164557358896
+    second: Sal Spudder 13
+  - first:
+      213: 6227504745287419679
+    second: Sal Spudder 14
+  - first:
+      213: -2771981292873761701
+    second: Sal Spudder 15
+  - first:
+      213: -5877516895402593174
+    second: Sal Spudder 25
+  - first:
+      213: 421321403964476804
+    second: Sal Spudder 16
+  - first:
+      213: -7353216610703295831
+    second: Sal Spudder 17
+  - first:
+      213: 421676600865607830
+    second: Sal Spudder 18
+  - first:
+      213: 6114078507025351089
+    second: Sal Spudder 19
+  - first:
+      213: -7290221091367902562
+    second: Sal Spudder 20
+  - first:
+      213: 3237079411813126789
+    second: Sal Spudder 21
+  - first:
+      213: 526893212545724237
+    second: Sal Spudder 22
+  - first:
+      213: -4974359551769477662
+    second: Sal Spudder 23
+  - first:
+      213: 2184288490878242358
+    second: Sal Spudder 24
+  - first:
+      213: -6363591304423972826
+    second: Sal Spudder 26
+  - first:
+      213: 9119719288201912740
+    second: Sal Spudder 27
+  - first:
+      213: -8112166662862721042
+    second: Sal Spudder 28
+  - first:
+      213: -5776267148652857891
+    second: Sal Spudder 29
+  - first:
+      213: 7597227144476248332
+    second: Sal Spudder 30
+  - first:
+      213: 6619093738875546973
+    second: Sal Spudder 31
+  - first:
+      213: -4163425815649199893
+    second: Sal Spudder 32
+  - first:
+      213: 2543915275016319248
+    second: Sal Spudder 33
+  - first:
+      213: 7316638812305106497
+    second: Sal Spudder 34
+  - first:
+      213: -2736766037276761372
+    second: Sal Spudder 35
+  - first:
+      213: 6961670724370836329
+    second: Sal Spudder 36
+  - first:
+      213: 7615317128138160686
+    second: Sal Spudder 37
+  - first:
+      213: -842235343475763563
+    second: Sal Spudder 38
+  - first:
+      213: 2900548688225642775
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_261
+  - first:
+      213: -4385230123569524654
+    second: Sal Spudder 39
+  - first:
+      213: -6733128119357720617
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_263
+  - first:
+      213: -4117371568005834023
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_264
+  - first:
+      213: 6599428302872900844
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_265
+  - first:
+      213: 5927389777104030959
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_266
+  - first:
+      213: -2076509932759843395
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_267
+  - first:
+      213: -6066997855126577425
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_268
+  - first:
+      213: -4547981341185698548
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_269
+  - first:
+      213: 3158044695310892249
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_270
+  - first:
+      213: -7363225404795081030
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_271
+  - first:
+      213: -6792455123579979563
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_272
+  - first:
+      213: -4749019592768323139
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_273
+  - first:
+      213: 7872638598142059277
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_274
+  - first:
+      213: 4415213030949841522
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_275
+  - first:
+      213: 9172769019168869990
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_276
+  - first:
+      213: 7635046247684739405
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_277
+  - first:
+      213: 8994653644343226510
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_278
+  - first:
+      213: 3909710830771861338
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_279
+  - first:
+      213: 4798071950525996417
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_280
+  - first:
+      213: 878581572353491289
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_281
+  - first:
+      213: -8115018710974140407
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_282
+  - first:
+      213: -3981590657660924129
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_283
+  - first:
+      213: -2311225086181863721
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_284
+  - first:
+      213: -6283669941587155802
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_285
+  - first:
+      213: 8436322841709716385
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_286
+  - first:
+      213: 8456308589697048928
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_287
+  - first:
+      213: 8195169322135594891
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_288
+  - first:
+      213: 8147108441482591197
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_289
+  - first:
+      213: -3097144595846046794
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_290
+  - first:
+      213: -7217902560640025058
+    second: Dirt 1
+  - first:
+      213: -6620358297458372465
+    second: Wurm_destroys 2
+  - first:
+      213: 1892740873564855330
+    second: Dirt 4
+  - first:
+      213: 6515886115689287297
+    second: Dirt 5
+  - first:
+      213: 1490486345231542589
+    second: Dirt 6
+  - first:
+      213: 5532683537259827558
+    second: Dirt 7
+  - first:
+      213: 5230843410673077348
+    second: Dirt 8
+  - first:
+      213: 7683673625667468583
+    second: Wurm 1
+  - first:
+      213: -6700189331281040485
+    second: Wurm_destroys 3
+  - first:
+      213: 5114783025834275100
+    second: Wurm_destroys 1
+  - first:
+      213: 29184820786444510
+    second: Dirt 2
+  - first:
+      213: -7793432023986947186
+    second: Dirt 3
+  - first:
+      213: -7684522176245894047
+    second: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_8
+  - first:
+      213: -7223703241618355284
+    second: Wurm 2
+  - first:
+      213: 6162791114296026732
+    second: Wurm 3
+  - first:
+      213: -1659823815935231795
+    second: Wurm 4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sal Spudder 1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6484
+        width: 314
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f59217593c8750800000000000000
+      internalID: 6308480224175977944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6483
+        width: 401
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a96065f6539ef0800000000000000
+      internalID: -102642754614876110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6491
+        width: 420
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b1e1b32a8423bf0800000000000000
+      internalID: -346134359740376287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 4
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 6483
+        width: 395
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea8831ab05b6760800000000000000
+      internalID: 7452138768536481283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 5
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 6484
+        width: 386
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e231b5918755c7e0800000000000000
+      internalID: -1745893066462383387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 9
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 6023
+        width: 405
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b1b1fbda457030800000000000000
+      internalID: 3491779394608935908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 8
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 6023
+        width: 400
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5e16036a728200800000000000000
+      internalID: 180841500771245709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6021
+        width: 391
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35561011147a54690800000000000000
+      internalID: -7618499296727308973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 7
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 6023
+        width: 388
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc043aeb2935e480800000000000000
+      internalID: -8870621030260667150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 10
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 6021
+        width: 408
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a02cf61ed884f0800000000000000
+      internalID: -826166341321841540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5561
+        width: 413
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a542d2f9311240800000000000000
+      internalID: 4760649996179973250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 5557
+        width: 435
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac699f559c201fe0800000000000000
+      internalID: -1220426478951764819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 13
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 5556
+        width: 453
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03752fa59b0bec020800000000000000
+      internalID: 2364021164557358896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 14
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 5555
+        width: 503
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f178ae3329a8c6650800000000000000
+      internalID: 6227504745287419679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 15
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 5553
+        width: 528
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c3b3263b1f789d0800000000000000
+      internalID: -2771981292873761701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 25
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 4519
+        width: 537
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64fb28268dde6ea0800000000000000
+      internalID: -5877516895402593174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5106
+        width: 566
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d429ba595d8d500800000000000000
+      internalID: 421321403964476804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 5108
+        width: 543
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa378a937024f990800000000000000
+      internalID: -7353216610703295831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5097
+        width: 392
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69050b462a81ad500800000000000000
+      internalID: 421676600865607830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 19
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 5097
+        width: 268
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c814220299d450800000000000000
+      internalID: 6114078507025351089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4519
+        width: 243
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a4faea8ee3da90800000000000000
+      internalID: -7290221091367902562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 4519
+        width: 249
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821ad2039a6cec20800000000000000
+      internalID: 3237079411813126789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 22
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 4519
+        width: 290
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2a50d596ef4700800000000000000
+      internalID: 526893212545724237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 23
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 4519
+        width: 400
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed75bbc75687fab0800000000000000
+      internalID: -4974359551769477662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 24
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 4519
+        width: 483
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e85c14fc6205e10800000000000000
+      internalID: 2184288490878242358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4002
+        width: 503
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6206b04ac6bffa7a0800000000000000
+      internalID: -6363591304423972826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 4002
+        width: 486
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1ad80df50cf8e70800000000000000
+      internalID: 9119719288201912740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 28
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4002
+        width: 468
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef2d45766bcb6f80800000000000000
+      internalID: -8112166662862721042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 29
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 4002
+        width: 472
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b9ccd1a396dfa0800000000000000
+      internalID: -5776267148652857891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 30
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 4002
+        width: 469
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09467806d5ce6960800000000000000
+      internalID: 7597227144476248332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 31
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 4002
+        width: 468
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d60b0afaebbdb50800000000000000
+      internalID: 6619093738875546973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3485
+        width: 469
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8d989874a8836c0800000000000000
+      internalID: -4163425815649199893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 33
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3485
+        width: 461
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b902e67dcd4320800000000000000
+      internalID: 2543915275016319248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 34
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3485
+        width: 468
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146284d0c3ce98560800000000000000
+      internalID: 7316638812305106497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 35
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3485
+        width: 468
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e3c20acd050ad0800000000000000
+      internalID: -2736766037276761372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 36
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3485
+        width: 467
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b2c59a3a2dc9060800000000000000
+      internalID: 6961670724370836329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 37
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3485
+        width: 460
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7f92949a0fa960800000000000000
+      internalID: 7615317128138160686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2969
+        width: 454
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59619deda67cf44f0800000000000000
+      internalID: -842235343475763563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sal Spudder 39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2968
+        width: 454
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250db42cf688423c0800000000000000
+      internalID: -4385230123569524654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_264
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2387
+        width: 428
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da18b8af582cd6c0800000000000000
+      internalID: -4117371568005834023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_265
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2387
+        width: 404
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f5618311e59b50800000000000000
+      internalID: 6599428302872900844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_266
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2390
+        width: 410
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec419df891524250800000000000000
+      internalID: 5927389777104030959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_267
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2387
+        width: 398
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd774dc731ce23e0800000000000000
+      internalID: -2076509932759843395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_269
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2387
+        width: 407
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c059581011352e0c0800000000000000
+      internalID: -4547981341185698548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_270
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 2387
+        width: 411
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcffc81be0a3db20800000000000000
+      internalID: 3158044695310892249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_271
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1870
+        width: 407
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeae02a18190d990800000000000000
+      internalID: -7363225404795081030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_272
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1870
+        width: 383
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bb369d0a5cb1a0800000000000000
+      internalID: -6792455123579979563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_273
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1870
+        width: 340
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18cad77d7181eb0800000000000000
+      internalID: -4749019592768323139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_274
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1873
+        width: 342
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03694f081b314d60800000000000000
+      internalID: 7872638598142059277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_275
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1870
+        width: 431
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae07ddbdcf54d30800000000000000
+      internalID: 4415213030949841522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_276
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 1870
+        width: 450
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ec442d2d83c4f70800000000000000
+      internalID: 9172769019168869990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_277
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1353
+        width: 475
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419dec2c1225f960800000000000000
+      internalID: 7635046247684739405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_278
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1353
+        width: 465
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8030c475dd63dc70800000000000000
+      internalID: 8994653644343226510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_279
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1353
+        width: 462
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5777aa3945124630800000000000000
+      internalID: 3909710830771861338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_280
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1353
+        width: 479
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1ed9840d269240800000000000000
+      internalID: 4798071950525996417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_281
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1353
+        width: 495
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951855ef849513c00800000000000000
+      internalID: 878581572353491289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_282
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 847
+        width: 296
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900fcb24a79a16f80800000000000000
+      internalID: -8115018710974140407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_283
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 847
+        width: 296
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f4b19646c8eb8c0800000000000000
+      internalID: -3981590657660924129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_284
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 847
+        width: 294
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de882e8701ecefd0800000000000000
+      internalID: -2311225086181863721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_285
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 847
+        width: 301
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e5edfa7bebc8a0800000000000000
+      internalID: -6283669941587155802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_286
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 847
+        width: 307
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32f9e4de6d31570800000000000000
+      internalID: 8436322841709716385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_287
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 847
+        width: 307
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612affdbd7da5570800000000000000
+      internalID: 8456308589697048928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_288
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 847
+        width: 301
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87221024171bb170800000000000000
+      internalID: 8195169322135594891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_289
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 847
+        width: 308
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf72956f7501170800000000000000
+      internalID: 8147108441482591197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_290
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 847
+        width: 303
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5392466bb405d0800000000000000
+      internalID: -3097144595846046794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 132
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e3ba9fcdbd4db90800000000000000
+      internalID: -7217902560640025058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm_destroys 2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 460
+        width: 246
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801f226433cf14a0800000000000000
+      internalID: -6620358297458372465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 648
+        width: 124
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c12bcdbcd544a10800000000000000
+      internalID: 1892740873564855330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 647
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e4f8a46e31d6a50800000000000000
+      internalID: 6515886115689287297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 649
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a81e1f654fa410800000000000000
+      internalID: 1490486345231542589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 648
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661160d1d5a08cc40800000000000000
+      internalID: 5532683537259827558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 8
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 648
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c8cd82e50b79840800000000000000
+      internalID: 5230843410673077348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm 1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 647
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d72f3e374e1aa60800000000000000
+      internalID: 7683673625667468583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm_destroys 3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 446
+        width: 272
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba1256d452403a0800000000000000
+      internalID: -6700189331281040485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm_destroys 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11bc0e001c5bf640800000000000000
+      internalID: 5114783025834275100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 653
+        width: 134
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed83fcb907fa76000800000000000000
+      internalID: 29184820786444510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt 3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 654
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bba159dda28d390800000000000000
+      internalID: -7793432023986947186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Sal Spudder (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 538
+        width: 212
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16470488bc71b5590800000000000000
+      internalID: -7684522176245894047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm 2
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 649
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab0080bc2040cb90800000000000000
+      internalID: -7223703241618355284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm 3
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 647
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666c88ddd1a68550800000000000000
+      internalID: 6162791114296026732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wurm 4
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 648
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc87275980f17f8e0800000000000000
+      internalID: -1659823815935231795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 528f6d5c2030e4438896a6513dcc1e8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
