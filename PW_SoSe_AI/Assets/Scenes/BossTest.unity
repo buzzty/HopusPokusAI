@@ -2273,7 +2273,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 18c2c3082ac7e5d4db8188f245e2cdd9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6727,5 +6727,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: HopusPocus
       objectReference: {fileID: 0}
+    - target: {fileID: 8611436845297863065, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: _idle
+      value: 
+      objectReference: {fileID: 11400000, guid: af850eb988b47b04cbd197fe9353729e, type: 2}
+    - target: {fileID: 8611436845297863065, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: _attackActions.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 66ea357a1fa4aed44972488c217baffc, type: 2}
+    - target: {fileID: 8611436845297863065, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: _attackActions.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 31cd5139a80be25468de31e84776097c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}

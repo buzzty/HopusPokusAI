@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8631d46fcfba95f438c009b5e17b6505, type: 3}
   m_Name: SymbolAttack
   m_EditorClassIdentifier: 
-  _id: {fileID: 0}
-  _attackCooldown: 3
-  _limitUsageByHP: 1
+  _id: {fileID: 11400000, guid: a07094658de4d4a4886cd2ab39d3291d, type: 2}
+  _attackCooldown: 4
+  _limitUsageByHP: 0
   _hpMinMax:
     MinValue: 0
     MaxValue: 1
   _chance: 1
-  minSpeed: 0
-  maxSpeed: 0
+  speed: 0

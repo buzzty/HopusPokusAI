@@ -19,9 +19,9 @@ namespace AISystem
 		[SerializeField] private float _onHitLerpEffectDuration = 0.25f;
 
 		private Collider2D _collider;
-		private AudioSource _audio;
+		[SerializeField] private AudioSource _audio;
 		private Animator _animator;
-		private EnemyBrain _brain;
+		private HPEnemyBrain _brain;
 		private float _currentHP;
 		private Color _originalColor;
 		private Color _hitColor;

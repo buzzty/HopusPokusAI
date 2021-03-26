@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: IdleAttack
   m_EditorClassIdentifier: 
   _id: {fileID: 11400000, guid: 6481bdbc6a64a4d4da003ac0caee094e, type: 2}
+  _TwirlLoop: {fileID: 8300000, guid: 51e1674ae2f9321489137f42e4ff78be, type: 3}
