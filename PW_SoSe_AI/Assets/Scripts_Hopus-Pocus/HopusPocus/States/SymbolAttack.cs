@@ -4,22 +4,17 @@ using Random = UnityEngine.Random;
 
 namespace AISystem.HopusPocus.States
 {
-    
-    public class SymbolAttack : MonoBehaviour
+    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/Attacks/SymbolAttack", fileName = "SymbolAttack", order = 0)]
+    public class SymbolAttack : HPEnemyAttackActionState
     {
-        [SerializeField] private float minSpeed;
-        [SerializeField] private float maxSpeed;
-
+        [SerializeField]
         private float speed;
-
-        private void Awake()
-        {
-            speed = Random.Range(minSpeed, maxSpeed);
-        }
+        
 
         private void Update()
         {
-            transform.position += Vector3.down * speed * Time.deltaTime;
+            
+          //  GameObject.transform.position += Vector3.down * speed * Time.deltaTime;
         }
     }
 }

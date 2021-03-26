@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Random = System.Random;
+using Random = UnityEngine.Random;
 
 namespace AISystem.HopusPocus.States
 {
@@ -37,10 +37,10 @@ namespace AISystem.HopusPocus.States
 
         private void SpawnAttack()
         {
-          //  int randomSymbolIndex = Random.Range(0, symbolAttack.Length);
-         //   GameObject newSymbolAttack = Instantiate(symbolAttack[randomSymbolIndex]);
-            //int randomSpawnIndex = Random.Range(0, spawnPoints.Length);
-          //  newSymbolAttack.transform.position = spawnPoints[randomSymbolIndex].localPosition;
+           int randomSymbolIndex = Random.Range(0, symbolAttack.Length);
+          GameObject newSymbolAttack = Instantiate(symbolAttack[randomSymbolIndex]);
+            int randomSpawnIndex = Random.Range(0, spawnPoints.Length);
+           newSymbolAttack.transform.position = spawnPoints[randomSymbolIndex].localPosition;
         }
         
         
