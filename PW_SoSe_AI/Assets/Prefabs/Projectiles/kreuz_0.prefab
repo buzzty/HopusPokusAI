@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5717705165619012092}
   - component: {fileID: 5717705165619011586}
   - component: {fileID: 5717705165619012093}
-  - component: {fileID: 9077399474321133649}
+  - component: {fileID: 3549242381753650624}
   m_Layer: 0
   m_Name: kreuz_0
   m_TagString: Untagged
@@ -103,7 +103,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &9077399474321133649
+--- !u!114 &3549242381753650624
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,7 +112,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 5717705165619012095}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8631d46fcfba95f438c009b5e17b6505, type: 3}
+  m_Script: {fileID: 11500000, guid: 4521c6086d584594995941d1d76dc976, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 1
+  IsDestroyedOnImpact: 1
   speed: 5
