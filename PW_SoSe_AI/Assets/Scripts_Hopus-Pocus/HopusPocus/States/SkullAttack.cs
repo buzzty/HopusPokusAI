@@ -15,6 +15,7 @@ namespace AISystem.HopusPocus.States
             // set animation trigger and play audio - state is driven by animation and will exit once anim is done
             enemy.Animator.SetTrigger(roll > 0.5f ? "FaceHigh" : "FaceLow");
             enemy.PlayAudio(_faceAttackLoop, true);
+            Debug.Log("twirl");
         }
 
         protected override void OnStateExit(HopusPocusFSM fsm, Enemy enemy)

@@ -12,10 +12,6 @@ namespace AISystem
     {
         // all these get called in some of the animations. Select CagneyCarnationBoss -> GraphicsObejct and check its animations for how its done & setup
         public event Action<StateIdentifier> OnAnimationDone;
-        public event Action OnSpawnGatlingProjectile;
-        public static event Action OnSpawnMagicHandsProjectile;
-        public static event Action OnSpawnSpitProjectile;
-        public static event Action OnMiniFlowerShoot;
 
         private AudioSource _source;
 
@@ -31,25 +27,6 @@ namespace AISystem
             OnAnimationDone?.Invoke(id);
         }
 
-        private void SpawnMagicHandsProjectile()
-        {
-            OnSpawnMagicHandsProjectile?.Invoke();
-        }
-
-        private void SpawnSpitProjectile()
-        {
-            OnSpawnSpitProjectile?.Invoke();
-        }
-
-        private void SpawnGatlingProjectile()
-        {
-            OnSpawnGatlingProjectile?.Invoke();
-        }
-
-        private void SpawnMiniFlowerProjectile()
-        {
-            OnMiniFlowerShoot?.Invoke();
-        }
 
         private void PlayAudio(AnimationEvent animationEvent)
         {
