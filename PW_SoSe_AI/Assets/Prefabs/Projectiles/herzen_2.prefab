@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4636058985232606521}
   - component: {fileID: 4636058985232606523}
   - component: {fileID: 4636058985232606522}
-  - component: {fileID: 4636058985232606524}
+  - component: {fileID: 2110389206488428942}
   m_Layer: 0
   m_Name: herzen_2
   m_TagString: Untagged
@@ -103,7 +103,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &4636058985232606524
+--- !u!114 &2110389206488428942
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,7 +112,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 4636058985232606520}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8631d46fcfba95f438c009b5e17b6505, type: 3}
+  m_Script: {fileID: 11500000, guid: 4521c6086d584594995941d1d76dc976, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 1
+  IsDestroyedOnImpact: 1
   speed: 5

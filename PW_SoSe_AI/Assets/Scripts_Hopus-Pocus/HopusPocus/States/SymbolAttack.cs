@@ -1,6 +1,6 @@
 ﻿using System;
 using UnityEngine;
-using Random = UnityEngine.Random;
+
 
 namespace AISystem.HopusPocus.States
 {
@@ -8,13 +8,17 @@ namespace AISystem.HopusPocus.States
     public class SymbolAttack : HPEnemyAttackActionState
     {
         [SerializeField]
-        private float speed;
+        private CardProjectileBehaviour cardProjectilePrefab;
+
+        protected override void OnStateEnter(HopusPocusFSM fsm, Enemy enemy)
+        {
+            Instantiate(cardProjectilePrefab);
+        }
         
 
-        private void Update()
+        protected override HopusPocusState OnStateUpdate(HopusPocusFSM fsm, Enemy enemy)
         {
-            
-          //  GameObject.transform.position += Vector3.down * speed * Time.deltaTime;
+            return fsm.Idle;
         }
     }
 }
