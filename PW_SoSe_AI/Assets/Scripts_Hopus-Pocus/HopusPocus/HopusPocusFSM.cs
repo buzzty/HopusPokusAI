@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace AISystem.HopusPocus
 {
-    public class HopusPocusFsm : EnemyActionFSM<HopusPocusState>
+    public class HopusPocusFSM : HPEnemyActionFSM<HopusPocusState>
     {
         [SerializeField] protected HPIdle _idle = default;
         [SerializeField] private List<HPEnemyAttackActionState> _attackActions = new List<HPEnemyAttackActionState>();

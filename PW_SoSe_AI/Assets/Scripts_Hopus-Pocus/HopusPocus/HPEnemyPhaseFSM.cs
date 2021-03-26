@@ -14,7 +14,7 @@ namespace AISystem.HopusPocus
         [SerializeField] private List<HPAttackPhase> _attackingPhases = new List<HPAttackPhase>();
         [SerializeField] private HPSwitchPhase _switchPhase;
         [SerializeField] private HPDeathPhase _deathPhase;
-        [SerializeField] private EnemyAnimationEventReceiver _animEventReceiver = default;
+        [SerializeField] private HPEnemyAnimationEventReceiver _animEventReceiver = default;
         public int CurrentPhaseIndex => _currentPhaseIndex;
         private List<HPPhaseState> _phases = new List<HPPhaseState>();
         private int _currentPhaseIndex;

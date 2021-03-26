@@ -10,13 +10,13 @@ namespace AISystem.HopusPocus.Phases
         [SerializeField] private float _normalizedHPThreshold = 0.5f;
         [SerializeField] private FSMIdentifier _phaseFSM = default;
 
-        private EnemyActionFSM<HopusPocusState> _fsm;
+        private HPEnemyActionFSM<HopusPocusState> _fsm;
 
         public override void InitPhase(HPEnemyPhaseFSM enemyPhaseFsm)
         {
             base.InitPhase(enemyPhaseFsm);
 
-            _fsm = enemyPhaseFsm.GetComponentsInChildren<EnemyActionFSM<HopusPocusState>>().FirstOrDefault(fsm => fsm.Id.Equals(_phaseFSM));
+            _fsm = enemyPhaseFsm.GetComponentsInChildren<HPEnemyActionFSM<HopusPocusState>>().FirstOrDefault(fsm => fsm.Id.Equals(_phaseFSM));
         }
 
         public override bool OnStateUpdate(HPEnemyPhaseFSM phaseFSM, Enemy enemy)

@@ -1,32 +1,32 @@
 ﻿namespace AISystem.HopusPocus
 {
-    public abstract class HopusPocusState : ScriptableEnemyState<EnemyActionFSM<HopusPocusState>, HopusPocusState>
+    public abstract class HopusPocusState : ScriptableEnemyState<HPEnemyActionFSM<HopusPocusState>, HopusPocusState>
     {
-        public override HopusPocusState OnStateUpdate(EnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
+        public override HopusPocusState OnStateUpdate(HPEnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
         {
-            return OnStateUpdate(fsm as HopusPocusFsm, enemy);
+            return OnStateUpdate(fsm as HopusPocusFSM, enemy);
         }
 
-        public override void OnStateEnter(EnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
+        public override void OnStateEnter(HPEnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
         {
-            OnStateEnter(fsm as HopusPocusFsm, enemy);
+            OnStateEnter(fsm as HopusPocusFSM, enemy);
         }
 
-        public override void OnStateExit(EnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
+        public override void OnStateExit(HPEnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
         {
-            OnStateExit(fsm as HopusPocusFsm, enemy);
+            OnStateExit(fsm as HopusPocusFSM, enemy);
         }
 
-        protected virtual HopusPocusState OnStateUpdate(HopusPocusFsm fsm, Enemy enemy)
+        protected virtual HopusPocusState OnStateUpdate(HopusPocusFSM fsm, Enemy enemy)
         {
             return this;
         }
 
-        protected virtual void OnStateEnter(HopusPocusFsm fsm, Enemy enemy)
+        protected virtual void OnStateEnter(HopusPocusFSM fsm, Enemy enemy)
         {
         }
 
-        protected virtual void OnStateExit(HopusPocusFsm fsm, Enemy enemy)
+        protected virtual void OnStateExit(HopusPocusFSM fsm, Enemy enemy)
         {
         }
     }

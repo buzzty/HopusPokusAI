@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1403f68ed810c2e459e77641533ca1bc, type: 3}
   m_Name: SkullAttack
   m_EditorClassIdentifier: 
-  _id: {fileID: 0}
+  _id: {fileID: 11400000, guid: 2cb11c9f2976ba848ac7dc4f3c9197c2, type: 2}
+  _faceAttackLoop: {fileID: 0}
