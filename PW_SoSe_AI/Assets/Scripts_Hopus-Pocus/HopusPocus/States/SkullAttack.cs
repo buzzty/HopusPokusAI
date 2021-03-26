@@ -3,7 +3,7 @@ using UnityEngine;
 namespace AISystem.HopusPocus.States
 {
     [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/Attacks/SkullAttack", fileName = "SkullAttack", order = 0)]
-    public class SkullAttack : HopusPocusState
+    public class SkullAttack : HPEnemyAttackActionState
     {
         [SerializeField] private AudioClip _faceAttackLoop;
 

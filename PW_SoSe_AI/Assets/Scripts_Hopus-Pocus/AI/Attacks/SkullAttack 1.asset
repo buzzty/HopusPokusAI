@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1403f68ed810c2e459e77641533ca1bc, type: 3}
-  m_Name: SkullAttack
+  m_Name: SkullAttack 1
   m_EditorClassIdentifier: 
-  _id: {fileID: 11400000, guid: 2cb11c9f2976ba848ac7dc4f3c9197c2, type: 2}
-  _faceAttackLoop: {fileID: 8300000, guid: 1c5736683d62c094cb673c887e7aa773, type: 3}
+  _id: {fileID: 0}
+  _faceAttackLoop: {fileID: 0}
