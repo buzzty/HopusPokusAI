@@ -1,31 +1,25 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
+using Random = UnityEngine.Random;
 
 namespace AISystem.HopusPocus.States
 {
-    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/Attacks/SymbolAttack", fileName = "SymbolAttack", order = 0)]
-    public class SymbolAttack : HopusPocusState
+    
+    public class SymbolAttack : MonoBehaviour
     {
-        [SerializeField] private AudioClip _faceAttackLoop;
+        [SerializeField] private float minSpeed;
+        [SerializeField] private float maxSpeed;
 
-<<<<<<< HEAD
-        
-=======
-        protected override void OnStateEnter(HopusPocusFSM fsm, Enemy enemy)
+        private float speed;
+
+        private void Awake()
         {
-            base.OnStateEnter(fsm, enemy);
-
-            float roll = Random.value;
-            // set animation trigger and play audio - state is driven by animation and will exit once anim is done
-            enemy.Animator.SetTrigger(roll > 0.5f ? "FaceHigh" : "FaceLow");
-            enemy.PlayAudio(_faceAttackLoop, true);
+            speed = Random.Range(minSpeed, maxSpeed);
         }
 
-        protected override void OnStateExit(HopusPocusFSM fsm, Enemy enemy)
+        private void Update()
         {
-            base.OnStateExit(fsm, enemy);
-
-            enemy.StopAudio();
+            transform.position += Vector3.down * speed * Time.deltaTime;
         }
->>>>>>> 9cdbc431c0aeed91df20d3c020235388fa8ea588
     }
 }
