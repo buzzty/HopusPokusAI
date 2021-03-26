@@ -29,7 +29,7 @@ namespace AISystem
             _lastTimeUsed = 0;
         }
 
-        protected override void OnStateExit(HopusPocusFsm fsm, Enemy enemy)
+        protected override void OnStateExit(HopusPocusFSM fsm, Enemy enemy)
         {
             base.OnStateExit(fsm, enemy);
 
@@ -37,7 +37,7 @@ namespace AISystem
             fsm.FinishAttack();
         }
 
-        protected override HopusPocusState OnStateUpdate(HopusPocusFsm fsm, Enemy enemy)
+        protected override HopusPocusState OnStateUpdate(HopusPocusFSM fsm, Enemy enemy)
         {
             if (_isAnimationDone)
             {
@@ -48,7 +48,7 @@ namespace AISystem
             return base.OnStateUpdate(fsm, enemy);
         }
 
-        protected override void OnStateEnter(HopusPocusFsm fsm, Enemy enemy)
+        protected override void OnStateEnter(HopusPocusFSM fsm, Enemy enemy)
         {
             base.OnStateEnter(fsm, enemy);
 

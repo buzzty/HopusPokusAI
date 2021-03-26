@@ -9,8 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8631d46fcfba95f438c009b5e17b6505, type: 3}
-  m_Name: SymbolAttack
+  m_Script: {fileID: 11500000, guid: 59243447e18656b44b29576e7f265b84, type: 3}
+  m_Name: IdleAttack
   m_EditorClassIdentifier: 
-  _id: {fileID: 11400000, guid: a07094658de4d4a4886cd2ab39d3291d, type: 2}
-  _faceAttackLoop: {fileID: 0}
+  _id: {fileID: 11400000, guid: 6481bdbc6a64a4d4da003ac0caee094e, type: 2}

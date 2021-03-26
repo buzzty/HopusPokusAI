@@ -5,17 +5,23 @@ namespace AISystem.HopusPocus.States
     [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/Attacks/SymbolAttack", fileName = "SymbolAttack", order = 0)]
     public class SymbolAttack : HopusPocusState
     {
+        [SerializeField] private AudioClip _faceAttackLoop;
 
-        // Use this for initialization
-        void Start()
+        protected override void OnStateEnter(HopusPocusFSM fsm, Enemy enemy)
         {
+            base.OnStateEnter(fsm, enemy);
 
+            float roll = Random.value;
+            // set animation trigger and play audio - state is driven by animation and will exit once anim is done
+            enemy.Animator.SetTrigger(roll > 0.5f ? "FaceHigh" : "FaceLow");
+            enemy.PlayAudio(_faceAttackLoop, true);
         }
 
-        // Update is called once per frame
-        void Update()
+        protected override void OnStateExit(HopusPocusFSM fsm, Enemy enemy)
         {
+            base.OnStateExit(fsm, enemy);
 
+            enemy.StopAudio();
         }
     }
 }
