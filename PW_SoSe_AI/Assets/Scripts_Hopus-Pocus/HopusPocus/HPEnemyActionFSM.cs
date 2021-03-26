@@ -26,6 +26,11 @@ namespace AISystem
             }
         }
 
+        public void Enter(Enemy enemy)
+        {
+            _currentState.OnStateEnter(this, enemy);
+        }
+
         private void Start()
         {
             _animEventReceiver.OnAnimationDone += AnimationDone;

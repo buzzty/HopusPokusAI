@@ -19,6 +19,16 @@ namespace AISystem.HopusPocus.Phases
             _fsm = enemyPhaseFsm.GetComponentsInChildren<HPEnemyActionFSM<HopusPocusState>>().FirstOrDefault(fsm => fsm.Id.Equals(_phaseFSM));
         }
 
+        public override void OnStateEnter(HPEnemyPhaseFSM phaseFSM, Enemy enemy)
+        {
+            base.OnStateEnter(phaseFSM, enemy);
+
+            if (_fsm != null)
+            {
+                _fsm.Enter(enemy);
+            }
+        }
+
         public override bool OnStateUpdate(HPEnemyPhaseFSM phaseFSM, Enemy enemy)
         {
             if (_fsm != null)

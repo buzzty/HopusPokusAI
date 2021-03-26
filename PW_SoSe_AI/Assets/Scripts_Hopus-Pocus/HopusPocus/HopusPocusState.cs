@@ -9,6 +9,7 @@
 
         public override void OnStateEnter(HPEnemyActionFSM<HopusPocusState> fsm, Enemy enemy)
         {
+            UnityEngine.Debug.Log("Calling On State Enter " + this);
             OnStateEnter(fsm as HopusPocusFSM, enemy);
         }
 

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 231f7091d36a634478d339d78ba1051c, type: 3}
   m_Name: ActivePhase
   m_EditorClassIdentifier: 
-  _id: {fileID: 0}
+  _id: {fileID: 11400000, guid: 5cb40120b8267b34db6b954a27d4d5bd, type: 2}
   _normalizedHPThreshold: 0.5
-  _phaseFSM: {fileID: 0}
+  _phaseFSM: {fileID: 11400000, guid: b71b38e3f6236e34e9e5d4b23aec5bdd, type: 2}

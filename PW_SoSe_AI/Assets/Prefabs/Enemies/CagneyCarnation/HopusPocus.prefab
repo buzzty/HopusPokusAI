@@ -175,6 +175,7 @@ MonoBehaviour:
   _isBoss: 0
   _spriteRenderer: {fileID: 8611436844914335274}
   _onHitLerpEffectDuration: 0.25
+  _audio: {fileID: 0}
 --- !u!82 &8611436844515633618
 AudioSource:
   m_ObjectHideFlags: 0
@@ -531,8 +532,8 @@ MonoBehaviour:
   _animEventReceiver: {fileID: 8611436844914335272}
   _idle: {fileID: 11400000, guid: af850eb988b47b04cbd197fe9353729e, type: 2}
   _attackActions:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 66ea357a1fa4aed44972488c217baffc, type: 2}
+  - {fileID: 11400000, guid: 31cd5139a80be25468de31e84776097c, type: 2}
   _minDelayBetweenAttacks: 3
   _maxDelayBetweenAttacks: 6
   _attackChainAmount:

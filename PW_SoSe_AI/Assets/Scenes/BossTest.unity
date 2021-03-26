@@ -1950,6 +1950,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _knockoutTimeline: {fileID: 1006471410}
+--- !u!82 &629295133 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8611436844515633618, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+  m_PrefabInstance: {fileID: 8611436843502168985}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &707039729
 GameObject:
   m_ObjectHideFlags: 0
@@ -6723,21 +6728,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8611436844515633618, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8611436844515633618, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8611436844515633618, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8611436844515633619, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
+      propertyPath: _audio
+      value: 
+      objectReference: {fileID: 629295133}
     - target: {fileID: 8611436844515633631, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
       propertyPath: m_Name
       value: HopusPocus
       objectReference: {fileID: 0}
-    - target: {fileID: 8611436845297863065, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
-      propertyPath: _idle
-      value: 
-      objectReference: {fileID: 11400000, guid: af850eb988b47b04cbd197fe9353729e, type: 2}
-    - target: {fileID: 8611436845297863065, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
-      propertyPath: _attackActions.Array.data[0]
-      value: 
-      objectReference: {fileID: 11400000, guid: 66ea357a1fa4aed44972488c217baffc, type: 2}
-    - target: {fileID: 8611436845297863065, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}
-      propertyPath: _attackActions.Array.data[1]
-      value: 
-      objectReference: {fileID: 11400000, guid: 31cd5139a80be25468de31e84776097c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bcdf2789d31247b49a97561a33a6c4af, type: 3}

@@ -9,11 +9,13 @@ namespace AISystem.HopusPocus.States
 
         protected override void OnStateEnter(HopusPocusFSM fsm, Enemy enemy)
         {
+            Debug.Log("Enter Idle");
             base.OnStateEnter(fsm, enemy);
 
+            Debug.Log("Playing Anim");
             enemy.Animator.SetTrigger("Idle");
+            Debug.Log("Playing Audio: " + _TwirlLoop);
             enemy.PlayAudio(_TwirlLoop, true);
-            Debug.Log("lol");
         }
 
         protected override HopusPocusState OnStateUpdate(HopusPocusFSM fsm, Enemy enemy)

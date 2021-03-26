@@ -59,7 +59,7 @@ namespace AISystem
 				Die();
 			}
 
-			if (_gotHit)
+            if (_gotHit)
 			{
 				_spriteRenderer.color = Color.Lerp(_hitColor, _originalColor, _hitLerpDuration / _onHitLerpEffectDuration);
 				_hitLerpDuration += Time.deltaTime;
