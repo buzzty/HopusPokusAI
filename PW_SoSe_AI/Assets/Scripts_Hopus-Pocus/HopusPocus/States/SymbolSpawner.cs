@@ -1,11 +1,12 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = System.Random;
 
 namespace AISystem.HopusPocus.States
 {
-    [CreateAssetMenu(menuName = "Cuphead/Bosses/HopusPocus/Attacks/SymbolSpawner", fileName = "SymbolSpawner",
-        order = 0)]
+  
     public class SymbolSpawner : MonoBehaviour
     {
         [SerializeField]
@@ -13,5 +14,35 @@ namespace AISystem.HopusPocus.States
 
         [SerializeField] 
         private GameObject[] symbolAttack;
+
+        [SerializeField] private float spawnTime;
+        private float timer;
+
+        private void Start()
+        {
+            timer = spawnTime;
+
+            SpawnAttack();
+        }
+
+        private void Update()
+        {
+            timer -= Time.deltaTime;
+            if (timer <= 0)
+            {
+                timer = spawnTime;
+                SpawnAttack();
+            }
+        }
+
+        private void SpawnAttack()
+        {
+          //  int randomSymbolIndex = Random.Range(0, symbolAttack.Length);
+         //   GameObject newSymbolAttack = Instantiate(symbolAttack[randomSymbolIndex]);
+            //int randomSpawnIndex = Random.Range(0, spawnPoints.Length);
+          //  newSymbolAttack.transform.position = spawnPoints[randomSymbolIndex].localPosition;
+        }
+        
+        
     }
 }
