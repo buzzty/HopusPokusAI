@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: SymbolAttack
   m_EditorClassIdentifier: 
   _id: {fileID: 11400000, guid: a07094658de4d4a4886cd2ab39d3291d, type: 2}
-  _faceAttackLoop: {fileID: 0}
+  _faceAttackLoop: {fileID: 8300000, guid: fc6d50706c4b889428afe4f51c376e59, type: 3}
