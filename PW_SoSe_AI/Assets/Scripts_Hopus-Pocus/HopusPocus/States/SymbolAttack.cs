@@ -6,16 +6,6 @@ namespace AISystem.HopusPocus.States
     public class SymbolAttack : HopusPocusState
     {
 
-        // Use this for initialization
-        void Start()
-        {
-
-        }
-
-        // Update is called once per frame
-        void Update()
-        {
-
-        }
+        
     }
 }
